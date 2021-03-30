@@ -1,0 +1,2854 @@
+[
+    {
+        "id": "6062d16a12b69d0a74e5c3a8",
+        "name": "Rosie Reese",
+        "randomDate": 1612184516237,
+        "log": [
+            {
+                "logId": "6062d16afab5d1e092404572",
+                "clockedIn": "Monday, February 1, 2021 1:01 PM",
+                "clockedOut": "Monday, February 1, 2021 9:01 PM",
+                "inactiveTime": 3120
+            },
+            {
+                "logId": "6062d16a6fc83040f1277906",
+                "clockedIn": "Tuesday, February 2, 2021 1:01 PM",
+                "clockedOut": "Tuesday, February 2, 2021 9:01 PM",
+                "inactiveTime": 2580
+            },
+            {
+                "logId": "6062d16a0d123583019b1219",
+                "clockedIn": "Wednesday, February 3, 2021 1:01 PM",
+                "clockedOut": "Wednesday, February 3, 2021 9:01 PM",
+                "inactiveTime": 2580
+            },
+            {
+                "logId": "6062d16a71236ead0ef065b0",
+                "clockedIn": "Thursday, February 4, 2021 1:01 PM",
+                "clockedOut": "Thursday, February 4, 2021 9:01 PM",
+                "inactiveTime": 2880
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16af8e160d643e16bf8",
+        "name": "Delores Weber",
+        "randomDate": 1613281396497,
+        "log": [
+            {
+                "logId": "6062d16a2fc7977f69a3e897",
+                "clockedIn": "Sunday, February 14, 2021 5:43 AM",
+                "clockedOut": "Sunday, February 14, 2021 1:43 PM",
+                "inactiveTime": 1440
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a2aad0eb900b82b75",
+        "name": "Beach Acosta",
+        "randomDate": 1612389337158,
+        "log": [
+            {
+                "logId": "6062d16aaef046e396c4e03c",
+                "clockedIn": "Wednesday, February 3, 2021 9:55 PM",
+                "clockedOut": "Thursday, February 4, 2021 5:55 AM",
+                "inactiveTime": 2040
+            },
+            {
+                "logId": "6062d16a237bc4b06481ae78",
+                "clockedIn": "Thursday, February 4, 2021 9:55 PM",
+                "clockedOut": "Friday, February 5, 2021 5:55 AM",
+                "inactiveTime": 3300
+            },
+            {
+                "logId": "6062d16ad54904b3e406f463",
+                "clockedIn": "Friday, February 5, 2021 9:55 PM",
+                "clockedOut": "Saturday, February 6, 2021 5:55 AM",
+                "inactiveTime": 1620
+            },
+            {
+                "logId": "6062d16aa34143098da13e61",
+                "clockedIn": "Saturday, February 6, 2021 9:55 PM",
+                "clockedOut": "Sunday, February 7, 2021 5:55 AM",
+                "inactiveTime": 3180
+            },
+            {
+                "logId": "6062d16acfcf87c8d2b22cd2",
+                "clockedIn": "Sunday, February 7, 2021 9:55 PM",
+                "clockedOut": "Monday, February 8, 2021 5:55 AM",
+                "inactiveTime": 1920
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a0c3c038d338ab69a",
+        "name": "Tanya Montgomery",
+        "randomDate": 1609482342161,
+        "log": [
+            {
+                "logId": "6062d16aa49ae15e8875bf00",
+                "clockedIn": "Friday, January 1, 2021 6:25 AM",
+                "clockedOut": "Friday, January 1, 2021 2:25 PM",
+                "inactiveTime": 3180
+            },
+            {
+                "logId": "6062d16add98368471ea1d42",
+                "clockedIn": "Saturday, January 2, 2021 6:25 AM",
+                "clockedOut": "Saturday, January 2, 2021 2:25 PM",
+                "inactiveTime": 2040
+            },
+            {
+                "logId": "6062d16a8c2014ec92652feb",
+                "clockedIn": "Sunday, January 3, 2021 6:25 AM",
+                "clockedOut": "Sunday, January 3, 2021 2:25 PM",
+                "inactiveTime": 2640
+            },
+            {
+                "logId": "6062d16ad816a75498d42d2c",
+                "clockedIn": "Monday, January 4, 2021 6:25 AM",
+                "clockedOut": "Monday, January 4, 2021 2:25 PM",
+                "inactiveTime": 2760
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16ab4b64225234e68d9",
+        "name": "Baxter Wooten",
+        "randomDate": 1614783097516,
+        "log": [
+            {
+                "logId": "6062d16a200b87500f760954",
+                "clockedIn": "Wednesday, March 3, 2021 2:51 PM",
+                "clockedOut": "Wednesday, March 3, 2021 10:51 PM",
+                "inactiveTime": 1500
+            },
+            {
+                "logId": "6062d16ac7412bd4cf5fba3e",
+                "clockedIn": "Thursday, March 4, 2021 2:51 PM",
+                "clockedOut": "Thursday, March 4, 2021 10:51 PM",
+                "inactiveTime": 1500
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16aa51634ca6dfd0ab1",
+        "name": "Hilda Chen",
+        "randomDate": 1614003584064,
+        "log": [
+            {
+                "logId": "6062d16a078a22b55e4cf045",
+                "clockedIn": "Monday, February 22, 2021 2:19 PM",
+                "clockedOut": "Monday, February 22, 2021 10:19 PM",
+                "inactiveTime": 2880
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a5c81cd3b1efc5bcd",
+        "name": "Florine Hartman",
+        "randomDate": 1613884141549,
+        "log": [
+            {
+                "logId": "6062d16a64b648e4d5f85ba6",
+                "clockedIn": "Sunday, February 21, 2021 5:09 AM",
+                "clockedOut": "Sunday, February 21, 2021 1:09 PM",
+                "inactiveTime": 3000
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a2f3df8b2d50f82b6",
+        "name": "Chavez Collins",
+        "randomDate": 1614765513910,
+        "log": [
+            {
+                "logId": "6062d16afb9b4b5203d54112",
+                "clockedIn": "Wednesday, March 3, 2021 9:58 AM",
+                "clockedOut": "Wednesday, March 3, 2021 5:58 PM",
+                "inactiveTime": 1500
+            },
+            {
+                "logId": "6062d16aa593c88207d2d4aa",
+                "clockedIn": "Thursday, March 4, 2021 9:58 AM",
+                "clockedOut": "Thursday, March 4, 2021 5:58 PM",
+                "inactiveTime": 2760
+            },
+            {
+                "logId": "6062d16ac0fb7486428dc9a4",
+                "clockedIn": "Friday, March 5, 2021 9:58 AM",
+                "clockedOut": "Friday, March 5, 2021 5:58 PM",
+                "inactiveTime": 2100
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16ad0a2d9af2c442452",
+        "name": "Vera Drake",
+        "randomDate": 1615861664714,
+        "log": [
+            {
+                "logId": "6062d16a8af0370744522ba8",
+                "clockedIn": "Tuesday, March 16, 2021 2:27 AM",
+                "clockedOut": "Tuesday, March 16, 2021 10:27 AM",
+                "inactiveTime": 2640
+            },
+            {
+                "logId": "6062d16acfc58afce5068a1a",
+                "clockedIn": "Wednesday, March 17, 2021 2:27 AM",
+                "clockedOut": "Wednesday, March 17, 2021 10:27 AM",
+                "inactiveTime": 2160
+            },
+            {
+                "logId": "6062d16a0490882586db3816",
+                "clockedIn": "Thursday, March 18, 2021 2:27 AM",
+                "clockedOut": "Thursday, March 18, 2021 10:27 AM",
+                "inactiveTime": 2580
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16af1628d057b8a3c35",
+        "name": "Laura Mays",
+        "randomDate": 1616258970299,
+        "log": [
+            {
+                "logId": "6062d16a0ab008a47c875c3d",
+                "clockedIn": "Saturday, March 20, 2021 4:49 PM",
+                "clockedOut": "Sunday, March 21, 2021 12:49 AM",
+                "inactiveTime": 1260
+            },
+            {
+                "logId": "6062d16aa1c37baf42c9baa7",
+                "clockedIn": "Sunday, March 21, 2021 4:49 PM",
+                "clockedOut": "Monday, March 22, 2021 12:49 AM",
+                "inactiveTime": 2100
+            },
+            {
+                "logId": "6062d16a03776a7b41f9e6db",
+                "clockedIn": "Monday, March 22, 2021 4:49 PM",
+                "clockedOut": "Tuesday, March 23, 2021 12:49 AM",
+                "inactiveTime": 3600
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a09d9dfaf1eb79155",
+        "name": "Black Shaw",
+        "randomDate": 1612985523302,
+        "log": [
+            {
+                "logId": "6062d16a4f06d92e5eeb4717",
+                "clockedIn": "Wednesday, February 10, 2021 7:32 PM",
+                "clockedOut": "Thursday, February 11, 2021 3:32 AM",
+                "inactiveTime": 3420
+            },
+            {
+                "logId": "6062d16a02fa33430bfee61d",
+                "clockedIn": "Thursday, February 11, 2021 7:32 PM",
+                "clockedOut": "Friday, February 12, 2021 3:32 AM",
+                "inactiveTime": 2340
+            },
+            {
+                "logId": "6062d16ae3e3c32109fb3aa9",
+                "clockedIn": "Friday, February 12, 2021 7:32 PM",
+                "clockedOut": "Saturday, February 13, 2021 3:32 AM",
+                "inactiveTime": 1500
+            },
+            {
+                "logId": "6062d16aaf761464ad0d50e4",
+                "clockedIn": "Saturday, February 13, 2021 7:32 PM",
+                "clockedOut": "Sunday, February 14, 2021 3:32 AM",
+                "inactiveTime": 1380
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a28405c99b181b34b",
+        "name": "Woodard Lester",
+        "randomDate": 1615324385207,
+        "log": [
+            {
+                "logId": "6062d16ab41cc53f27532de0",
+                "clockedIn": "Tuesday, March 9, 2021 9:13 PM",
+                "clockedOut": "Wednesday, March 10, 2021 5:13 AM",
+                "inactiveTime": 3360
+            },
+            {
+                "logId": "6062d16ab8648ad3c510f044",
+                "clockedIn": "Wednesday, March 10, 2021 9:13 PM",
+                "clockedOut": "Thursday, March 11, 2021 5:13 AM",
+                "inactiveTime": 1260
+            },
+            {
+                "logId": "6062d16a43e71e4c487901c1",
+                "clockedIn": "Thursday, March 11, 2021 9:13 PM",
+                "clockedOut": "Friday, March 12, 2021 5:13 AM",
+                "inactiveTime": 1860
+            },
+            {
+                "logId": "6062d16a401a7ba5e0bc2277",
+                "clockedIn": "Friday, March 12, 2021 9:13 PM",
+                "clockedOut": "Saturday, March 13, 2021 5:13 AM",
+                "inactiveTime": 2760
+            },
+            {
+                "logId": "6062d16a700a5ccceba5ea7d",
+                "clockedIn": "Saturday, March 13, 2021 9:13 PM",
+                "clockedOut": "Sunday, March 14, 2021 5:13 AM",
+                "inactiveTime": 3600
+            },
+            {
+                "logId": "6062d16aae56f06139df54e2",
+                "clockedIn": "Sunday, March 14, 2021 9:13 PM",
+                "clockedOut": "Monday, March 15, 2021 5:13 AM",
+                "inactiveTime": 1620
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16aaaa71d44f032764c",
+        "name": "Boyer Schmidt",
+        "randomDate": 1612352748036,
+        "log": [
+            {
+                "logId": "6062d16a7491193637190832",
+                "clockedIn": "Wednesday, February 3, 2021 11:45 AM",
+                "clockedOut": "Wednesday, February 3, 2021 7:45 PM",
+                "inactiveTime": 2880
+            },
+            {
+                "logId": "6062d16a1a36f175ca580fd5",
+                "clockedIn": "Thursday, February 4, 2021 11:45 AM",
+                "clockedOut": "Thursday, February 4, 2021 7:45 PM",
+                "inactiveTime": 2400
+            },
+            {
+                "logId": "6062d16a30733a877accd341",
+                "clockedIn": "Friday, February 5, 2021 11:45 AM",
+                "clockedOut": "Friday, February 5, 2021 7:45 PM",
+                "inactiveTime": 1800
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16ab6fa4b0e324f76d2",
+        "name": "Holt Kramer",
+        "randomDate": 1610442459397,
+        "log": [
+            {
+                "logId": "6062d16a0a31527029a6828f",
+                "clockedIn": "Tuesday, January 12, 2021 9:07 AM",
+                "clockedOut": "Tuesday, January 12, 2021 5:07 PM",
+                "inactiveTime": 3540
+            },
+            {
+                "logId": "6062d16aaa35277d5f0e382c",
+                "clockedIn": "Wednesday, January 13, 2021 9:07 AM",
+                "clockedOut": "Wednesday, January 13, 2021 5:07 PM",
+                "inactiveTime": 1980
+            },
+            {
+                "logId": "6062d16a64509a35962dfa38",
+                "clockedIn": "Thursday, January 14, 2021 9:07 AM",
+                "clockedOut": "Thursday, January 14, 2021 5:07 PM",
+                "inactiveTime": 1620
+            },
+            {
+                "logId": "6062d16aa6a2090f81fe1b15",
+                "clockedIn": "Friday, January 15, 2021 9:07 AM",
+                "clockedOut": "Friday, January 15, 2021 5:07 PM",
+                "inactiveTime": 1380
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a21e21025f208779d",
+        "name": "Bette Zimmerman",
+        "randomDate": 1610669663601,
+        "log": [
+            {
+                "logId": "6062d16a06aba7bdaf42223c",
+                "clockedIn": "Friday, January 15, 2021 12:14 AM",
+                "clockedOut": "Friday, January 15, 2021 8:14 AM",
+                "inactiveTime": 3120
+            },
+            {
+                "logId": "6062d16a3a468d2072404138",
+                "clockedIn": "Saturday, January 16, 2021 12:14 AM",
+                "clockedOut": "Saturday, January 16, 2021 8:14 AM",
+                "inactiveTime": 1920
+            },
+            {
+                "logId": "6062d16ad708ff311acad017",
+                "clockedIn": "Sunday, January 17, 2021 12:14 AM",
+                "clockedOut": "Sunday, January 17, 2021 8:14 AM",
+                "inactiveTime": 2220
+            },
+            {
+                "logId": "6062d16a9042c62d3e37f374",
+                "clockedIn": "Monday, January 18, 2021 12:14 AM",
+                "clockedOut": "Monday, January 18, 2021 8:14 AM",
+                "inactiveTime": 1800
+            },
+            {
+                "logId": "6062d16a551d676d00ce5080",
+                "clockedIn": "Tuesday, January 19, 2021 12:14 AM",
+                "clockedOut": "Tuesday, January 19, 2021 8:14 AM",
+                "inactiveTime": 3000
+            },
+            {
+                "logId": "6062d16a92317fbff0d9ec29",
+                "clockedIn": "Wednesday, January 20, 2021 12:14 AM",
+                "clockedOut": "Wednesday, January 20, 2021 8:14 AM",
+                "inactiveTime": 1800
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a1eab4484ad752496",
+        "name": "Gibbs Ochoa",
+        "randomDate": 1609889062958,
+        "log": [
+            {
+                "logId": "6062d16a749c4ebd36f25674",
+                "clockedIn": "Tuesday, January 5, 2021 11:24 PM",
+                "clockedOut": "Wednesday, January 6, 2021 7:24 AM",
+                "inactiveTime": 1380
+            },
+            {
+                "logId": "6062d16a6281b4554fab765b",
+                "clockedIn": "Wednesday, January 6, 2021 11:24 PM",
+                "clockedOut": "Thursday, January 7, 2021 7:24 AM",
+                "inactiveTime": 1680
+            },
+            {
+                "logId": "6062d16a78f94525c308ff17",
+                "clockedIn": "Thursday, January 7, 2021 11:24 PM",
+                "clockedOut": "Friday, January 8, 2021 7:24 AM",
+                "inactiveTime": 2880
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16ab928430f18bca27e",
+        "name": "Tabitha Wiggins",
+        "randomDate": 1614357913141,
+        "log": [
+            {
+                "logId": "6062d16a303d854eb1e48594",
+                "clockedIn": "Friday, February 26, 2021 4:45 PM",
+                "clockedOut": "Saturday, February 27, 2021 12:45 AM",
+                "inactiveTime": 2760
+            },
+            {
+                "logId": "6062d16a16acc484ef63909d",
+                "clockedIn": "Saturday, February 27, 2021 4:45 PM",
+                "clockedOut": "Sunday, February 28, 2021 12:45 AM",
+                "inactiveTime": 1320
+            },
+            {
+                "logId": "6062d16aab346a4fa2d520dc",
+                "clockedIn": "Sunday, February 28, 2021 4:45 PM",
+                "clockedOut": "Monday, March 1, 2021 12:45 AM",
+                "inactiveTime": 1320
+            },
+            {
+                "logId": "6062d16accf716637f87bc0b",
+                "clockedIn": "Monday, March 1, 2021 4:45 PM",
+                "clockedOut": "Tuesday, March 2, 2021 12:45 AM",
+                "inactiveTime": 1500
+            },
+            {
+                "logId": "6062d16aba3513b5cb62feba",
+                "clockedIn": "Tuesday, March 2, 2021 4:45 PM",
+                "clockedOut": "Wednesday, March 3, 2021 12:45 AM",
+                "inactiveTime": 1680
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a7137bd999eeb3453",
+        "name": "Green Mercado",
+        "randomDate": 1610880251595,
+        "log": [
+            {
+                "logId": "6062d16a8ebf9b54c7767f62",
+                "clockedIn": "Sunday, January 17, 2021 10:44 AM",
+                "clockedOut": "Sunday, January 17, 2021 6:44 PM",
+                "inactiveTime": 1680
+            },
+            {
+                "logId": "6062d16a4eb2978a533622a0",
+                "clockedIn": "Monday, January 18, 2021 10:44 AM",
+                "clockedOut": "Monday, January 18, 2021 6:44 PM",
+                "inactiveTime": 2160
+            },
+            {
+                "logId": "6062d16acabb474e2590a712",
+                "clockedIn": "Tuesday, January 19, 2021 10:44 AM",
+                "clockedOut": "Tuesday, January 19, 2021 6:44 PM",
+                "inactiveTime": 3180
+            },
+            {
+                "logId": "6062d16aaaefb54e34c3622d",
+                "clockedIn": "Wednesday, January 20, 2021 10:44 AM",
+                "clockedOut": "Wednesday, January 20, 2021 6:44 PM",
+                "inactiveTime": 2940
+            },
+            {
+                "logId": "6062d16a4f87c4b90f701320",
+                "clockedIn": "Thursday, January 21, 2021 10:44 AM",
+                "clockedOut": "Thursday, January 21, 2021 6:44 PM",
+                "inactiveTime": 3540
+            },
+            {
+                "logId": "6062d16a65545969cdb43a88",
+                "clockedIn": "Friday, January 22, 2021 10:44 AM",
+                "clockedOut": "Friday, January 22, 2021 6:44 PM",
+                "inactiveTime": 3360
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a392007fdc2c19a1f",
+        "name": "Barnett Gilbert",
+        "randomDate": 1612146862678,
+        "log": [
+            {
+                "logId": "6062d16aed6670343079ebd7",
+                "clockedIn": "Monday, February 1, 2021 2:34 AM",
+                "clockedOut": "Monday, February 1, 2021 10:34 AM",
+                "inactiveTime": 2220
+            },
+            {
+                "logId": "6062d16ab3dc0caafd45102e",
+                "clockedIn": "Tuesday, February 2, 2021 2:34 AM",
+                "clockedOut": "Tuesday, February 2, 2021 10:34 AM",
+                "inactiveTime": 3360
+            },
+            {
+                "logId": "6062d16ad5bdf7e75c174dcf",
+                "clockedIn": "Wednesday, February 3, 2021 2:34 AM",
+                "clockedOut": "Wednesday, February 3, 2021 10:34 AM",
+                "inactiveTime": 2220
+            },
+            {
+                "logId": "6062d16a821d810948d26fc3",
+                "clockedIn": "Thursday, February 4, 2021 2:34 AM",
+                "clockedOut": "Thursday, February 4, 2021 10:34 AM",
+                "inactiveTime": 1680
+            },
+            {
+                "logId": "6062d16a5feec909e2716c48",
+                "clockedIn": "Friday, February 5, 2021 2:34 AM",
+                "clockedOut": "Friday, February 5, 2021 10:34 AM",
+                "inactiveTime": 1560
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16aa14c2632e1642193",
+        "name": "Tamera Gould",
+        "randomDate": 1610157093518,
+        "log": [
+            {
+                "logId": "6062d16afc4ea195a50b925d",
+                "clockedIn": "Saturday, January 9, 2021 1:51 AM",
+                "clockedOut": "Saturday, January 9, 2021 9:51 AM",
+                "inactiveTime": 3060
+            },
+            {
+                "logId": "6062d16a2e67bd5ba277aca1",
+                "clockedIn": "Sunday, January 10, 2021 1:51 AM",
+                "clockedOut": "Sunday, January 10, 2021 9:51 AM",
+                "inactiveTime": 1920
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16ab599e7e75ec85b30",
+        "name": "Holman Maldonado",
+        "randomDate": 1609505359975,
+        "log": [
+            {
+                "logId": "6062d16a40c0cb3c21fb0e09",
+                "clockedIn": "Friday, January 1, 2021 12:49 PM",
+                "clockedOut": "Friday, January 1, 2021 8:49 PM",
+                "inactiveTime": 3420
+            },
+            {
+                "logId": "6062d16ac71908e540eea835",
+                "clockedIn": "Saturday, January 2, 2021 12:49 PM",
+                "clockedOut": "Saturday, January 2, 2021 8:49 PM",
+                "inactiveTime": 900
+            },
+            {
+                "logId": "6062d16aa012c4fc81a8ac8e",
+                "clockedIn": "Sunday, January 3, 2021 12:49 PM",
+                "clockedOut": "Sunday, January 3, 2021 8:49 PM",
+                "inactiveTime": 2640
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a2c5cff580f976adf",
+        "name": "Rene Ingram",
+        "randomDate": 1612256725999,
+        "log": [
+            {
+                "logId": "6062d16aecee688fd38e92c6",
+                "clockedIn": "Tuesday, February 2, 2021 9:05 AM",
+                "clockedOut": "Tuesday, February 2, 2021 5:05 PM",
+                "inactiveTime": 3000
+            },
+            {
+                "logId": "6062d16a133b0758dbc138cd",
+                "clockedIn": "Wednesday, February 3, 2021 9:05 AM",
+                "clockedOut": "Wednesday, February 3, 2021 5:05 PM",
+                "inactiveTime": 2520
+            },
+            {
+                "logId": "6062d16a2f21b801f7bd0f04",
+                "clockedIn": "Thursday, February 4, 2021 9:05 AM",
+                "clockedOut": "Thursday, February 4, 2021 5:05 PM",
+                "inactiveTime": 1800
+            },
+            {
+                "logId": "6062d16a7669b74ef0dca312",
+                "clockedIn": "Friday, February 5, 2021 9:05 AM",
+                "clockedOut": "Friday, February 5, 2021 5:05 PM",
+                "inactiveTime": 2700
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a29bb0b7a126b1146",
+        "name": "Tillman Oliver",
+        "randomDate": 1612136037617,
+        "log": [
+            {
+                "logId": "6062d16a729a730c6ea38342",
+                "clockedIn": "Sunday, January 31, 2021 11:33 PM",
+                "clockedOut": "Monday, February 1, 2021 7:33 AM",
+                "inactiveTime": 1920
+            },
+            {
+                "logId": "6062d16a2efd882bc84ad97c",
+                "clockedIn": "Monday, February 1, 2021 11:33 PM",
+                "clockedOut": "Tuesday, February 2, 2021 7:33 AM",
+                "inactiveTime": 3600
+            },
+            {
+                "logId": "6062d16a06060d5222ddf166",
+                "clockedIn": "Tuesday, February 2, 2021 11:33 PM",
+                "clockedOut": "Wednesday, February 3, 2021 7:33 AM",
+                "inactiveTime": 1560
+            },
+            {
+                "logId": "6062d16ad0fa63f4f3c7fb88",
+                "clockedIn": "Wednesday, February 3, 2021 11:33 PM",
+                "clockedOut": "Thursday, February 4, 2021 7:33 AM",
+                "inactiveTime": 1920
+            },
+            {
+                "logId": "6062d16a99997bf02667cd82",
+                "clockedIn": "Thursday, February 4, 2021 11:33 PM",
+                "clockedOut": "Friday, February 5, 2021 7:33 AM",
+                "inactiveTime": 3420
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a136b21935668dea9",
+        "name": "Bobbie Justice",
+        "randomDate": 1614876405699,
+        "log": [
+            {
+                "logId": "6062d16af04e43b085e7f817",
+                "clockedIn": "Thursday, March 4, 2021 4:46 PM",
+                "clockedOut": "Friday, March 5, 2021 12:46 AM",
+                "inactiveTime": 2640
+            },
+            {
+                "logId": "6062d16ae2173c5fae5a33f7",
+                "clockedIn": "Friday, March 5, 2021 4:46 PM",
+                "clockedOut": "Saturday, March 6, 2021 12:46 AM",
+                "inactiveTime": 1080
+            },
+            {
+                "logId": "6062d16a22fcb6aca20f6e63",
+                "clockedIn": "Saturday, March 6, 2021 4:46 PM",
+                "clockedOut": "Sunday, March 7, 2021 12:46 AM",
+                "inactiveTime": 1800
+            },
+            {
+                "logId": "6062d16a74d0d98b4c3465fb",
+                "clockedIn": "Sunday, March 7, 2021 4:46 PM",
+                "clockedOut": "Monday, March 8, 2021 12:46 AM",
+                "inactiveTime": 3420
+            },
+            {
+                "logId": "6062d16aef25103326f2d843",
+                "clockedIn": "Monday, March 8, 2021 4:46 PM",
+                "clockedOut": "Tuesday, March 9, 2021 12:46 AM",
+                "inactiveTime": 2040
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a20e5c561a659d1ae",
+        "name": "Russo Gillespie",
+        "randomDate": 1614028598754,
+        "log": [
+            {
+                "logId": "6062d16a8876ec8ededc334b",
+                "clockedIn": "Monday, February 22, 2021 9:16 PM",
+                "clockedOut": "Tuesday, February 23, 2021 5:16 AM",
+                "inactiveTime": 3120
+            },
+            {
+                "logId": "6062d16a67b9d73f3537634e",
+                "clockedIn": "Tuesday, February 23, 2021 9:16 PM",
+                "clockedOut": "Wednesday, February 24, 2021 5:16 AM",
+                "inactiveTime": 1260
+            },
+            {
+                "logId": "6062d16a14f92d60fd3e393f",
+                "clockedIn": "Wednesday, February 24, 2021 9:16 PM",
+                "clockedOut": "Thursday, February 25, 2021 5:16 AM",
+                "inactiveTime": 3540
+            },
+            {
+                "logId": "6062d16a678c1b1436bddeec",
+                "clockedIn": "Thursday, February 25, 2021 9:16 PM",
+                "clockedOut": "Friday, February 26, 2021 5:16 AM",
+                "inactiveTime": 1500
+            },
+            {
+                "logId": "6062d16abcd3954f4097f7cb",
+                "clockedIn": "Friday, February 26, 2021 9:16 PM",
+                "clockedOut": "Saturday, February 27, 2021 5:16 AM",
+                "inactiveTime": 3360
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a85418e0a65cd2a02",
+        "name": "Cline Patterson",
+        "randomDate": 1614418258558,
+        "log": [
+            {
+                "logId": "6062d16a2e74f83ebca4b44a",
+                "clockedIn": "Saturday, February 27, 2021 9:30 AM",
+                "clockedOut": "Saturday, February 27, 2021 5:30 PM",
+                "inactiveTime": 3540
+            },
+            {
+                "logId": "6062d16a032f92f65f0bddf3",
+                "clockedIn": "Sunday, February 28, 2021 9:30 AM",
+                "clockedOut": "Sunday, February 28, 2021 5:30 PM",
+                "inactiveTime": 1440
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16aabb8616f4b35cbc1",
+        "name": "West Ellis",
+        "randomDate": 1613011971699,
+        "log": [
+            {
+                "logId": "6062d16a563964dca5e797ba",
+                "clockedIn": "Thursday, February 11, 2021 2:52 AM",
+                "clockedOut": "Thursday, February 11, 2021 10:52 AM",
+                "inactiveTime": 1200
+            },
+            {
+                "logId": "6062d16a3ae18295dcc65dc0",
+                "clockedIn": "Friday, February 12, 2021 2:52 AM",
+                "clockedOut": "Friday, February 12, 2021 10:52 AM",
+                "inactiveTime": 1740
+            },
+            {
+                "logId": "6062d16ae129e0d88c097dea",
+                "clockedIn": "Saturday, February 13, 2021 2:52 AM",
+                "clockedOut": "Saturday, February 13, 2021 10:52 AM",
+                "inactiveTime": 1200
+            },
+            {
+                "logId": "6062d16a11e2547ec2a7e4ef",
+                "clockedIn": "Sunday, February 14, 2021 2:52 AM",
+                "clockedOut": "Sunday, February 14, 2021 10:52 AM",
+                "inactiveTime": 900
+            },
+            {
+                "logId": "6062d16ad474347b2582e83e",
+                "clockedIn": "Monday, February 15, 2021 2:52 AM",
+                "clockedOut": "Monday, February 15, 2021 10:52 AM",
+                "inactiveTime": 3360
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a4d00b4b81125b4df",
+        "name": "Yates Daniels",
+        "randomDate": 1610434825239,
+        "log": [
+            {
+                "logId": "6062d16a082a99c058370f0f",
+                "clockedIn": "Tuesday, January 12, 2021 7:00 AM",
+                "clockedOut": "Tuesday, January 12, 2021 3:00 PM",
+                "inactiveTime": 2580
+            },
+            {
+                "logId": "6062d16aefb8f6b34aa97286",
+                "clockedIn": "Wednesday, January 13, 2021 7:00 AM",
+                "clockedOut": "Wednesday, January 13, 2021 3:00 PM",
+                "inactiveTime": 1740
+            },
+            {
+                "logId": "6062d16a1a381ec951183c0e",
+                "clockedIn": "Thursday, January 14, 2021 7:00 AM",
+                "clockedOut": "Thursday, January 14, 2021 3:00 PM",
+                "inactiveTime": 1800
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a8e50d8a180b91f68",
+        "name": "Todd Gordon",
+        "randomDate": 1613595319007,
+        "log": [
+            {
+                "logId": "6062d16a766762aee8d352b3",
+                "clockedIn": "Wednesday, February 17, 2021 8:55 PM",
+                "clockedOut": "Thursday, February 18, 2021 4:55 AM",
+                "inactiveTime": 2400
+            },
+            {
+                "logId": "6062d16acdff9bdb5f89c5e8",
+                "clockedIn": "Thursday, February 18, 2021 8:55 PM",
+                "clockedOut": "Friday, February 19, 2021 4:55 AM",
+                "inactiveTime": 1620
+            },
+            {
+                "logId": "6062d16a3a9807045398495f",
+                "clockedIn": "Friday, February 19, 2021 8:55 PM",
+                "clockedOut": "Saturday, February 20, 2021 4:55 AM",
+                "inactiveTime": 3180
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a8b7bc1fcfb16b95a",
+        "name": "Lakisha Summers",
+        "randomDate": 1610268614857,
+        "log": [
+            {
+                "logId": "6062d16aceffb05556c725e4",
+                "clockedIn": "Sunday, January 10, 2021 8:50 AM",
+                "clockedOut": "Sunday, January 10, 2021 4:50 PM",
+                "inactiveTime": 2820
+            },
+            {
+                "logId": "6062d16ab4f648d145b9b019",
+                "clockedIn": "Monday, January 11, 2021 8:50 AM",
+                "clockedOut": "Monday, January 11, 2021 4:50 PM",
+                "inactiveTime": 3240
+            },
+            {
+                "logId": "6062d16ab3001a776112964d",
+                "clockedIn": "Tuesday, January 12, 2021 8:50 AM",
+                "clockedOut": "Tuesday, January 12, 2021 4:50 PM",
+                "inactiveTime": 3480
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16acdf2f34ccf7b6dd4",
+        "name": "Villarreal Holcomb",
+        "randomDate": 1616225841331,
+        "log": [
+            {
+                "logId": "6062d16abb9ab24dfe0746b5",
+                "clockedIn": "Saturday, March 20, 2021 7:37 AM",
+                "clockedOut": "Saturday, March 20, 2021 3:37 PM",
+                "inactiveTime": 3000
+            },
+            {
+                "logId": "6062d16ae08a696324c88b5c",
+                "clockedIn": "Sunday, March 21, 2021 7:37 AM",
+                "clockedOut": "Sunday, March 21, 2021 3:37 PM",
+                "inactiveTime": 1200
+            },
+            {
+                "logId": "6062d16ac82a55cd4b6da8cd",
+                "clockedIn": "Monday, March 22, 2021 7:37 AM",
+                "clockedOut": "Monday, March 22, 2021 3:37 PM",
+                "inactiveTime": 1200
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16aa22570e1af28a9f3",
+        "name": "Bryant Hendricks",
+        "randomDate": 1612254578802,
+        "log": [
+            {
+                "logId": "6062d16a025aa4515bacf3f5",
+                "clockedIn": "Tuesday, February 2, 2021 8:29 AM",
+                "clockedOut": "Tuesday, February 2, 2021 4:29 PM",
+                "inactiveTime": 900
+            },
+            {
+                "logId": "6062d16a5950e812fbd3c390",
+                "clockedIn": "Wednesday, February 3, 2021 8:29 AM",
+                "clockedOut": "Wednesday, February 3, 2021 4:29 PM",
+                "inactiveTime": 3060
+            },
+            {
+                "logId": "6062d16a875de36badf67011",
+                "clockedIn": "Thursday, February 4, 2021 8:29 AM",
+                "clockedOut": "Thursday, February 4, 2021 4:29 PM",
+                "inactiveTime": 3000
+            },
+            {
+                "logId": "6062d16ae21f4eff08982a22",
+                "clockedIn": "Friday, February 5, 2021 8:29 AM",
+                "clockedOut": "Friday, February 5, 2021 4:29 PM",
+                "inactiveTime": 1380
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a7430c633ac5c1f94",
+        "name": "Sonia Mcguire",
+        "randomDate": 1610730280801,
+        "log": [
+            {
+                "logId": "6062d16a7b547fc6839010e6",
+                "clockedIn": "Friday, January 15, 2021 5:04 PM",
+                "clockedOut": "Saturday, January 16, 2021 1:04 AM",
+                "inactiveTime": 3360
+            },
+            {
+                "logId": "6062d16a47a395ad29697872",
+                "clockedIn": "Saturday, January 16, 2021 5:04 PM",
+                "clockedOut": "Sunday, January 17, 2021 1:04 AM",
+                "inactiveTime": 1740
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a062bc34ad90080bd",
+        "name": "Hansen Cherry",
+        "randomDate": 1609888762310,
+        "log": [
+            {
+                "logId": "6062d16abb9e05f62fd4d607",
+                "clockedIn": "Tuesday, January 5, 2021 11:19 PM",
+                "clockedOut": "Wednesday, January 6, 2021 7:19 AM",
+                "inactiveTime": 1740
+            },
+            {
+                "logId": "6062d16a1c16e86071c98a23",
+                "clockedIn": "Wednesday, January 6, 2021 11:19 PM",
+                "clockedOut": "Thursday, January 7, 2021 7:19 AM",
+                "inactiveTime": 3240
+            },
+            {
+                "logId": "6062d16a0886043fe32397ae",
+                "clockedIn": "Thursday, January 7, 2021 11:19 PM",
+                "clockedOut": "Friday, January 8, 2021 7:19 AM",
+                "inactiveTime": 1380
+            },
+            {
+                "logId": "6062d16af3d1c2b49727cd1f",
+                "clockedIn": "Friday, January 8, 2021 11:19 PM",
+                "clockedOut": "Saturday, January 9, 2021 7:19 AM",
+                "inactiveTime": 3420
+            },
+            {
+                "logId": "6062d16a5da1f4b8febce83b",
+                "clockedIn": "Saturday, January 9, 2021 11:19 PM",
+                "clockedOut": "Sunday, January 10, 2021 7:19 AM",
+                "inactiveTime": 1740
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a00496da1ccd19faa",
+        "name": "Norton Wilkinson",
+        "randomDate": 1615376529441,
+        "log": [
+            {
+                "logId": "6062d16a432168f48ade248e",
+                "clockedIn": "Wednesday, March 10, 2021 11:42 AM",
+                "clockedOut": "Wednesday, March 10, 2021 7:42 PM",
+                "inactiveTime": 1920
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a585da536320e4ac2",
+        "name": "Burt Burgess",
+        "randomDate": 1612260668876,
+        "log": [
+            {
+                "logId": "6062d16a674f98ca7fe795a5",
+                "clockedIn": "Tuesday, February 2, 2021 10:11 AM",
+                "clockedOut": "Tuesday, February 2, 2021 6:11 PM",
+                "inactiveTime": 2100
+            },
+            {
+                "logId": "6062d16a078ba816973a18e4",
+                "clockedIn": "Wednesday, February 3, 2021 10:11 AM",
+                "clockedOut": "Wednesday, February 3, 2021 6:11 PM",
+                "inactiveTime": 1860
+            },
+            {
+                "logId": "6062d16ab0ae148ff29ab4ae",
+                "clockedIn": "Thursday, February 4, 2021 10:11 AM",
+                "clockedOut": "Thursday, February 4, 2021 6:11 PM",
+                "inactiveTime": 1080
+            },
+            {
+                "logId": "6062d16ae85c1b79d0179ebb",
+                "clockedIn": "Friday, February 5, 2021 10:11 AM",
+                "clockedOut": "Friday, February 5, 2021 6:11 PM",
+                "inactiveTime": 3180
+            },
+            {
+                "logId": "6062d16a59c8d710f922ab50",
+                "clockedIn": "Saturday, February 6, 2021 10:11 AM",
+                "clockedOut": "Saturday, February 6, 2021 6:11 PM",
+                "inactiveTime": 3180
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16aadbed8ef239b3c4b",
+        "name": "Aguirre Stevenson",
+        "randomDate": 1610298378023,
+        "log": [
+            {
+                "logId": "6062d16a3ffd119163af7099",
+                "clockedIn": "Sunday, January 10, 2021 5:06 PM",
+                "clockedOut": "Monday, January 11, 2021 1:06 AM",
+                "inactiveTime": 1560
+            },
+            {
+                "logId": "6062d16ade3b28533ecb179c",
+                "clockedIn": "Monday, January 11, 2021 5:06 PM",
+                "clockedOut": "Tuesday, January 12, 2021 1:06 AM",
+                "inactiveTime": 3060
+            },
+            {
+                "logId": "6062d16af3a56bbb0b3338e6",
+                "clockedIn": "Tuesday, January 12, 2021 5:06 PM",
+                "clockedOut": "Wednesday, January 13, 2021 1:06 AM",
+                "inactiveTime": 2760
+            },
+            {
+                "logId": "6062d16a92a320611a78e98d",
+                "clockedIn": "Wednesday, January 13, 2021 5:06 PM",
+                "clockedOut": "Thursday, January 14, 2021 1:06 AM",
+                "inactiveTime": 1200
+            },
+            {
+                "logId": "6062d16a9b08dcced28799c0",
+                "clockedIn": "Thursday, January 14, 2021 5:06 PM",
+                "clockedOut": "Friday, January 15, 2021 1:06 AM",
+                "inactiveTime": 2640
+            },
+            {
+                "logId": "6062d16ab4e4383543aec620",
+                "clockedIn": "Friday, January 15, 2021 5:06 PM",
+                "clockedOut": "Saturday, January 16, 2021 1:06 AM",
+                "inactiveTime": 2040
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a56ded3332c88e85c",
+        "name": "Powers Hopper",
+        "randomDate": 1609743870183,
+        "log": [
+            {
+                "logId": "6062d16a50b0b7b4a753b4e3",
+                "clockedIn": "Monday, January 4, 2021 7:04 AM",
+                "clockedOut": "Monday, January 4, 2021 3:04 PM",
+                "inactiveTime": 2040
+            },
+            {
+                "logId": "6062d16a8ad1dd163b16ca28",
+                "clockedIn": "Tuesday, January 5, 2021 7:04 AM",
+                "clockedOut": "Tuesday, January 5, 2021 3:04 PM",
+                "inactiveTime": 1260
+            },
+            {
+                "logId": "6062d16a30eb3d8dfda9b2d5",
+                "clockedIn": "Wednesday, January 6, 2021 7:04 AM",
+                "clockedOut": "Wednesday, January 6, 2021 3:04 PM",
+                "inactiveTime": 2400
+            },
+            {
+                "logId": "6062d16a25c84dc6f024dc41",
+                "clockedIn": "Thursday, January 7, 2021 7:04 AM",
+                "clockedOut": "Thursday, January 7, 2021 3:04 PM",
+                "inactiveTime": 1500
+            },
+            {
+                "logId": "6062d16a00d324061c2eba00",
+                "clockedIn": "Friday, January 8, 2021 7:04 AM",
+                "clockedOut": "Friday, January 8, 2021 3:04 PM",
+                "inactiveTime": 2220
+            },
+            {
+                "logId": "6062d16a36f59ce2b5ba5b9a",
+                "clockedIn": "Saturday, January 9, 2021 7:04 AM",
+                "clockedOut": "Saturday, January 9, 2021 3:04 PM",
+                "inactiveTime": 2340
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a92c23bc435d11117",
+        "name": "Arline Vang",
+        "randomDate": 1613064531087,
+        "log": [
+            {
+                "logId": "6062d16af51bf91fdfe70255",
+                "clockedIn": "Thursday, February 11, 2021 5:28 PM",
+                "clockedOut": "Friday, February 12, 2021 1:28 AM",
+                "inactiveTime": 1800
+            },
+            {
+                "logId": "6062d16a0702085a3bf2591e",
+                "clockedIn": "Friday, February 12, 2021 5:28 PM",
+                "clockedOut": "Saturday, February 13, 2021 1:28 AM",
+                "inactiveTime": 2580
+            },
+            {
+                "logId": "6062d16a7071f09296a216c6",
+                "clockedIn": "Saturday, February 13, 2021 5:28 PM",
+                "clockedOut": "Sunday, February 14, 2021 1:28 AM",
+                "inactiveTime": 2100
+            },
+            {
+                "logId": "6062d16a3214175101a436fb",
+                "clockedIn": "Sunday, February 14, 2021 5:28 PM",
+                "clockedOut": "Monday, February 15, 2021 1:28 AM",
+                "inactiveTime": 3300
+            },
+            {
+                "logId": "6062d16a974a6f09bb67ed3d",
+                "clockedIn": "Monday, February 15, 2021 5:28 PM",
+                "clockedOut": "Tuesday, February 16, 2021 1:28 AM",
+                "inactiveTime": 2100
+            },
+            {
+                "logId": "6062d16a20cf16c26f3f4afa",
+                "clockedIn": "Tuesday, February 16, 2021 5:28 PM",
+                "clockedOut": "Wednesday, February 17, 2021 1:28 AM",
+                "inactiveTime": 2040
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a5804ae22738b18be",
+        "name": "Becky Daniel",
+        "randomDate": 1616496043144,
+        "log": [
+            {
+                "logId": "6062d16ad48efdb3bf696c7c",
+                "clockedIn": "Tuesday, March 23, 2021 10:40 AM",
+                "clockedOut": "Tuesday, March 23, 2021 6:40 PM",
+                "inactiveTime": 1560
+            },
+            {
+                "logId": "6062d16aced7b7a283c33d98",
+                "clockedIn": "Wednesday, March 24, 2021 10:40 AM",
+                "clockedOut": "Wednesday, March 24, 2021 6:40 PM",
+                "inactiveTime": 3540
+            },
+            {
+                "logId": "6062d16a3f3728bb0c6fea0e",
+                "clockedIn": "Thursday, March 25, 2021 10:40 AM",
+                "clockedOut": "Thursday, March 25, 2021 6:40 PM",
+                "inactiveTime": 3420
+            },
+            {
+                "logId": "6062d16a7bdbc1956b23caab",
+                "clockedIn": "Friday, March 26, 2021 10:40 AM",
+                "clockedOut": "Friday, March 26, 2021 6:40 PM",
+                "inactiveTime": 2280
+            },
+            {
+                "logId": "6062d16a0398a6277239879d",
+                "clockedIn": "Saturday, March 27, 2021 10:40 AM",
+                "clockedOut": "Saturday, March 27, 2021 6:40 PM",
+                "inactiveTime": 1860
+            },
+            {
+                "logId": "6062d16a800c9780f57db80f",
+                "clockedIn": "Sunday, March 28, 2021 10:40 AM",
+                "clockedOut": "Sunday, March 28, 2021 6:40 PM",
+                "inactiveTime": 1140
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a13f577208dd92332",
+        "name": "Bonita Orr",
+        "randomDate": 1612099828002,
+        "log": [
+            {
+                "logId": "6062d16af4ebb34c8d67cd8f",
+                "clockedIn": "Sunday, January 31, 2021 1:30 PM",
+                "clockedOut": "Sunday, January 31, 2021 9:30 PM",
+                "inactiveTime": 3600
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16ac5b94b8b5ad356ad",
+        "name": "Savannah Fletcher",
+        "randomDate": 1616676710074,
+        "log": [
+            {
+                "logId": "6062d16a35688914ed388d0d",
+                "clockedIn": "Thursday, March 25, 2021 12:51 PM",
+                "clockedOut": "Thursday, March 25, 2021 8:51 PM",
+                "inactiveTime": 1080
+            },
+            {
+                "logId": "6062d16a62e61df866b1c814",
+                "clockedIn": "Friday, March 26, 2021 12:51 PM",
+                "clockedOut": "Friday, March 26, 2021 8:51 PM",
+                "inactiveTime": 1920
+            },
+            {
+                "logId": "6062d16a5870b21ee5ff138f",
+                "clockedIn": "Saturday, March 27, 2021 12:51 PM",
+                "clockedOut": "Saturday, March 27, 2021 8:51 PM",
+                "inactiveTime": 2400
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a487dfe2a55371a31",
+        "name": "Rae Marquez",
+        "randomDate": 1612746310915,
+        "log": [
+            {
+                "logId": "6062d16a45a10dabe5f1394c",
+                "clockedIn": "Monday, February 8, 2021 1:05 AM",
+                "clockedOut": "Monday, February 8, 2021 9:05 AM",
+                "inactiveTime": 3420
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a120e2c5bf36a42d1",
+        "name": "Kerri Pena",
+        "randomDate": 1610001121602,
+        "log": [
+            {
+                "logId": "6062d16adf36ebc2a0c15889",
+                "clockedIn": "Thursday, January 7, 2021 6:32 AM",
+                "clockedOut": "Thursday, January 7, 2021 2:32 PM",
+                "inactiveTime": 1500
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a352837a3f1f7f3a2",
+        "name": "Farrell Pugh",
+        "randomDate": 1613958871191,
+        "log": [
+            {
+                "logId": "6062d16a32a7203b36100b73",
+                "clockedIn": "Monday, February 22, 2021 1:54 AM",
+                "clockedOut": "Monday, February 22, 2021 9:54 AM",
+                "inactiveTime": 2400
+            },
+            {
+                "logId": "6062d16a1f22a231bd95d58e",
+                "clockedIn": "Tuesday, February 23, 2021 1:54 AM",
+                "clockedOut": "Tuesday, February 23, 2021 9:54 AM",
+                "inactiveTime": 1380
+            },
+            {
+                "logId": "6062d16a216e54c8342daf08",
+                "clockedIn": "Wednesday, February 24, 2021 1:54 AM",
+                "clockedOut": "Wednesday, February 24, 2021 9:54 AM",
+                "inactiveTime": 3480
+            },
+            {
+                "logId": "6062d16a3e083c460bd8f4d2",
+                "clockedIn": "Thursday, February 25, 2021 1:54 AM",
+                "clockedOut": "Thursday, February 25, 2021 9:54 AM",
+                "inactiveTime": 1320
+            },
+            {
+                "logId": "6062d16ac4ce63dfe7f543e5",
+                "clockedIn": "Friday, February 26, 2021 1:54 AM",
+                "clockedOut": "Friday, February 26, 2021 9:54 AM",
+                "inactiveTime": 3000
+            },
+            {
+                "logId": "6062d16afdd709f28b806c09",
+                "clockedIn": "Saturday, February 27, 2021 1:54 AM",
+                "clockedOut": "Saturday, February 27, 2021 9:54 AM",
+                "inactiveTime": 2700
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16aa3f9e572ae0747e5",
+        "name": "Diana Workman",
+        "randomDate": 1609775269136,
+        "log": [
+            {
+                "logId": "6062d16ae06f6ad2ede53f9c",
+                "clockedIn": "Monday, January 4, 2021 3:47 PM",
+                "clockedOut": "Monday, January 4, 2021 11:47 PM",
+                "inactiveTime": 3000
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a6863e2626cb938e0",
+        "name": "Caldwell Merrill",
+        "randomDate": 1610129363519,
+        "log": [
+            {
+                "logId": "6062d16aa031ac1385c67d97",
+                "clockedIn": "Friday, January 8, 2021 6:09 PM",
+                "clockedOut": "Saturday, January 9, 2021 2:09 AM",
+                "inactiveTime": 3420
+            },
+            {
+                "logId": "6062d16a6ed0f00801a2f081",
+                "clockedIn": "Saturday, January 9, 2021 6:09 PM",
+                "clockedOut": "Sunday, January 10, 2021 2:09 AM",
+                "inactiveTime": 3480
+            },
+            {
+                "logId": "6062d16a7cc5fd7afdafce99",
+                "clockedIn": "Sunday, January 10, 2021 6:09 PM",
+                "clockedOut": "Monday, January 11, 2021 2:09 AM",
+                "inactiveTime": 1980
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16aa544b2576106ca4c",
+        "name": "Milagros Harvey",
+        "randomDate": 1616763951601,
+        "log": [
+            {
+                "logId": "6062d16adb8159d94b914eac",
+                "clockedIn": "Friday, March 26, 2021 1:05 PM",
+                "clockedOut": "Friday, March 26, 2021 9:05 PM",
+                "inactiveTime": 2940
+            },
+            {
+                "logId": "6062d16ada6617dda6f556fd",
+                "clockedIn": "Saturday, March 27, 2021 1:05 PM",
+                "clockedOut": "Saturday, March 27, 2021 9:05 PM",
+                "inactiveTime": 900
+            },
+            {
+                "logId": "6062d16afbfd4b8faa0a0d37",
+                "clockedIn": "Sunday, March 28, 2021 1:05 PM",
+                "clockedOut": "Sunday, March 28, 2021 9:05 PM",
+                "inactiveTime": 2280
+            },
+            {
+                "logId": "6062d16a82a8a4e36736ad20",
+                "clockedIn": "Monday, March 29, 2021 1:05 PM",
+                "clockedOut": "Monday, March 29, 2021 9:05 PM",
+                "inactiveTime": 1620
+            },
+            {
+                "logId": "6062d16a21317220ed3843eb",
+                "clockedIn": "Tuesday, March 30, 2021 1:05 PM",
+                "clockedOut": "Tuesday, March 30, 2021 9:05 PM",
+                "inactiveTime": 3540
+            },
+            {
+                "logId": "6062d16a995471affb056292",
+                "clockedIn": "Wednesday, March 31, 2021 1:05 PM",
+                "clockedOut": "Wednesday, March 31, 2021 9:05 PM",
+                "inactiveTime": 2580
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a8f3758c0466c0429",
+        "name": "Pollard Travis",
+        "randomDate": 1616218135052,
+        "log": [
+            {
+                "logId": "6062d16aaec1af468ac7daee",
+                "clockedIn": "Saturday, March 20, 2021 5:28 AM",
+                "clockedOut": "Saturday, March 20, 2021 1:28 PM",
+                "inactiveTime": 1020
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a461e5605ba03d7e8",
+        "name": "Nelda Willis",
+        "randomDate": 1611015373951,
+        "log": [
+            {
+                "logId": "6062d16a852e554c610fe222",
+                "clockedIn": "Tuesday, January 19, 2021 12:16 AM",
+                "clockedOut": "Tuesday, January 19, 2021 8:16 AM",
+                "inactiveTime": 3480
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a7a36c2a06d97482e",
+        "name": "Morrow Russo",
+        "randomDate": 1614671975954,
+        "log": [
+            {
+                "logId": "6062d16a4c0e5b5a54197bb1",
+                "clockedIn": "Tuesday, March 2, 2021 7:59 AM",
+                "clockedOut": "Tuesday, March 2, 2021 3:59 PM",
+                "inactiveTime": 1680
+            },
+            {
+                "logId": "6062d16af46a0e298c6b219c",
+                "clockedIn": "Wednesday, March 3, 2021 7:59 AM",
+                "clockedOut": "Wednesday, March 3, 2021 3:59 PM",
+                "inactiveTime": 2700
+            },
+            {
+                "logId": "6062d16a270cea9c77413d55",
+                "clockedIn": "Thursday, March 4, 2021 7:59 AM",
+                "clockedOut": "Thursday, March 4, 2021 3:59 PM",
+                "inactiveTime": 1260
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16aeb5bdb09c48d6e7a",
+        "name": "Irene Mercer",
+        "randomDate": 1609750232036,
+        "log": [
+            {
+                "logId": "6062d16ad0522290cd9574d8",
+                "clockedIn": "Monday, January 4, 2021 8:50 AM",
+                "clockedOut": "Monday, January 4, 2021 4:50 PM",
+                "inactiveTime": 3540
+            },
+            {
+                "logId": "6062d16a55268430d355bcc8",
+                "clockedIn": "Tuesday, January 5, 2021 8:50 AM",
+                "clockedOut": "Tuesday, January 5, 2021 4:50 PM",
+                "inactiveTime": 2520
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a49f4569c040dd50a",
+        "name": "Summers Blair",
+        "randomDate": 1611002790566,
+        "log": [
+            {
+                "logId": "6062d16a0f045d47a5010a2f",
+                "clockedIn": "Monday, January 18, 2021 8:46 PM",
+                "clockedOut": "Tuesday, January 19, 2021 4:46 AM",
+                "inactiveTime": 3180
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16af34bfae423b0c13c",
+        "name": "Lowe Holder",
+        "randomDate": 1615070283227,
+        "log": [
+            {
+                "logId": "6062d16a651f69c8af2a4bab",
+                "clockedIn": "Saturday, March 6, 2021 10:38 PM",
+                "clockedOut": "Sunday, March 7, 2021 6:38 AM",
+                "inactiveTime": 2520
+            },
+            {
+                "logId": "6062d16a8e80cf4ded432a40",
+                "clockedIn": "Sunday, March 7, 2021 10:38 PM",
+                "clockedOut": "Monday, March 8, 2021 6:38 AM",
+                "inactiveTime": 2640
+            },
+            {
+                "logId": "6062d16a4c52a924a270899c",
+                "clockedIn": "Monday, March 8, 2021 10:38 PM",
+                "clockedOut": "Tuesday, March 9, 2021 6:38 AM",
+                "inactiveTime": 1320
+            },
+            {
+                "logId": "6062d16a8ca9b1d10bb1b6a6",
+                "clockedIn": "Tuesday, March 9, 2021 10:38 PM",
+                "clockedOut": "Wednesday, March 10, 2021 6:38 AM",
+                "inactiveTime": 3240
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a2542422aa33c87c1",
+        "name": "Amanda Murray",
+        "randomDate": 1616624277151,
+        "log": [
+            {
+                "logId": "6062d16a52745fc0643f68ae",
+                "clockedIn": "Wednesday, March 24, 2021 10:17 PM",
+                "clockedOut": "Thursday, March 25, 2021 6:17 AM",
+                "inactiveTime": 2580
+            },
+            {
+                "logId": "6062d16afbc929766020cb16",
+                "clockedIn": "Thursday, March 25, 2021 10:17 PM",
+                "clockedOut": "Friday, March 26, 2021 6:17 AM",
+                "inactiveTime": 2160
+            },
+            {
+                "logId": "6062d16a9fe1e6eed1d0eed1",
+                "clockedIn": "Friday, March 26, 2021 10:17 PM",
+                "clockedOut": "Saturday, March 27, 2021 6:17 AM",
+                "inactiveTime": 3540
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16ab956763f077e21a4",
+        "name": "Conrad Leonard",
+        "randomDate": 1610718978999,
+        "log": [
+            {
+                "logId": "6062d16a3ab5a4f740fa065d",
+                "clockedIn": "Friday, January 15, 2021 1:56 PM",
+                "clockedOut": "Friday, January 15, 2021 9:56 PM",
+                "inactiveTime": 1440
+            },
+            {
+                "logId": "6062d16ad4fd81d05220bbd5",
+                "clockedIn": "Saturday, January 16, 2021 1:56 PM",
+                "clockedOut": "Saturday, January 16, 2021 9:56 PM",
+                "inactiveTime": 2220
+            },
+            {
+                "logId": "6062d16a92483dadebdda45c",
+                "clockedIn": "Sunday, January 17, 2021 1:56 PM",
+                "clockedOut": "Sunday, January 17, 2021 9:56 PM",
+                "inactiveTime": 1020
+            },
+            {
+                "logId": "6062d16ac8e748105987804d",
+                "clockedIn": "Monday, January 18, 2021 1:56 PM",
+                "clockedOut": "Monday, January 18, 2021 9:56 PM",
+                "inactiveTime": 1620
+            },
+            {
+                "logId": "6062d16aea58442d5f8bf6b2",
+                "clockedIn": "Tuesday, January 19, 2021 1:56 PM",
+                "clockedOut": "Tuesday, January 19, 2021 9:56 PM",
+                "inactiveTime": 1500
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16af3f35fa6520f545c",
+        "name": "Bernice Talley",
+        "randomDate": 1614985250700,
+        "log": [
+            {
+                "logId": "6062d16ab516f5be1cfdc6de",
+                "clockedIn": "Friday, March 5, 2021 11:00 PM",
+                "clockedOut": "Saturday, March 6, 2021 7:00 AM",
+                "inactiveTime": 1800
+            },
+            {
+                "logId": "6062d16a97b9ba3c89e6b558",
+                "clockedIn": "Saturday, March 6, 2021 11:00 PM",
+                "clockedOut": "Sunday, March 7, 2021 7:00 AM",
+                "inactiveTime": 960
+            },
+            {
+                "logId": "6062d16adfd13c134b092497",
+                "clockedIn": "Sunday, March 7, 2021 11:00 PM",
+                "clockedOut": "Monday, March 8, 2021 7:00 AM",
+                "inactiveTime": 2460
+            },
+            {
+                "logId": "6062d16a7a4de0b121930b2d",
+                "clockedIn": "Monday, March 8, 2021 11:00 PM",
+                "clockedOut": "Tuesday, March 9, 2021 7:00 AM",
+                "inactiveTime": 3120
+            },
+            {
+                "logId": "6062d16a67acfc3148345816",
+                "clockedIn": "Tuesday, March 9, 2021 11:00 PM",
+                "clockedOut": "Wednesday, March 10, 2021 7:00 AM",
+                "inactiveTime": 1560
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16abb222180ca3a5501",
+        "name": "Shelley Mckee",
+        "randomDate": 1612186492083,
+        "log": [
+            {
+                "logId": "6062d16ad99ddf2cb484f628",
+                "clockedIn": "Monday, February 1, 2021 1:34 PM",
+                "clockedOut": "Monday, February 1, 2021 9:34 PM",
+                "inactiveTime": 3240
+            },
+            {
+                "logId": "6062d16ae2fdea099d3bdda9",
+                "clockedIn": "Tuesday, February 2, 2021 1:34 PM",
+                "clockedOut": "Tuesday, February 2, 2021 9:34 PM",
+                "inactiveTime": 2280
+            },
+            {
+                "logId": "6062d16a6827b43c872a0e01",
+                "clockedIn": "Wednesday, February 3, 2021 1:34 PM",
+                "clockedOut": "Wednesday, February 3, 2021 9:34 PM",
+                "inactiveTime": 1080
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a6f8530e791ae72fb",
+        "name": "Dorthy Petersen",
+        "randomDate": 1613071071815,
+        "log": [
+            {
+                "logId": "6062d16a7880c54200fc0001",
+                "clockedIn": "Thursday, February 11, 2021 7:17 PM",
+                "clockedOut": "Friday, February 12, 2021 3:17 AM",
+                "inactiveTime": 2160
+            },
+            {
+                "logId": "6062d16a77861a38ddbd5563",
+                "clockedIn": "Friday, February 12, 2021 7:17 PM",
+                "clockedOut": "Saturday, February 13, 2021 3:17 AM",
+                "inactiveTime": 1440
+            },
+            {
+                "logId": "6062d16a52a596034eda69d2",
+                "clockedIn": "Saturday, February 13, 2021 7:17 PM",
+                "clockedOut": "Sunday, February 14, 2021 3:17 AM",
+                "inactiveTime": 2880
+            },
+            {
+                "logId": "6062d16a5688fc9f8d31f720",
+                "clockedIn": "Sunday, February 14, 2021 7:17 PM",
+                "clockedOut": "Monday, February 15, 2021 3:17 AM",
+                "inactiveTime": 1500
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16acfafb63aaea31373",
+        "name": "Hays Hutchinson",
+        "randomDate": 1610074317018,
+        "log": [
+            {
+                "logId": "6062d16a318f3c35264b509d",
+                "clockedIn": "Friday, January 8, 2021 2:51 AM",
+                "clockedOut": "Friday, January 8, 2021 10:51 AM",
+                "inactiveTime": 2040
+            },
+            {
+                "logId": "6062d16a789586eb89a8714c",
+                "clockedIn": "Saturday, January 9, 2021 2:51 AM",
+                "clockedOut": "Saturday, January 9, 2021 10:51 AM",
+                "inactiveTime": 2460
+            },
+            {
+                "logId": "6062d16ab90b54d63534cecf",
+                "clockedIn": "Sunday, January 10, 2021 2:51 AM",
+                "clockedOut": "Sunday, January 10, 2021 10:51 AM",
+                "inactiveTime": 900
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a6363f9b71f439fa4",
+        "name": "Alejandra Vaughan",
+        "randomDate": 1616944351135,
+        "log": [
+            {
+                "logId": "6062d16a53d84f4e74552e0c",
+                "clockedIn": "Sunday, March 28, 2021 3:12 PM",
+                "clockedOut": "Sunday, March 28, 2021 11:12 PM",
+                "inactiveTime": 3000
+            },
+            {
+                "logId": "6062d16a407e5dcc6965933a",
+                "clockedIn": "Monday, March 29, 2021 3:12 PM",
+                "clockedOut": "Monday, March 29, 2021 11:12 PM",
+                "inactiveTime": 1500
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a36506dead710b70a",
+        "name": "Roseann Roberts",
+        "randomDate": 1611149144095,
+        "log": [
+            {
+                "logId": "6062d16a00f93451860736af",
+                "clockedIn": "Wednesday, January 20, 2021 1:25 PM",
+                "clockedOut": "Wednesday, January 20, 2021 9:25 PM",
+                "inactiveTime": 1620
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16ae4ff4cdc1cd8a5ea",
+        "name": "Willis Myers",
+        "randomDate": 1616859266270,
+        "log": [
+            {
+                "logId": "6062d16a87fea4f8fc375cee",
+                "clockedIn": "Saturday, March 27, 2021 3:34 PM",
+                "clockedOut": "Saturday, March 27, 2021 11:34 PM",
+                "inactiveTime": 3240
+            },
+            {
+                "logId": "6062d16a74cad29551fa26ca",
+                "clockedIn": "Sunday, March 28, 2021 3:34 PM",
+                "clockedOut": "Sunday, March 28, 2021 11:34 PM",
+                "inactiveTime": 1860
+            },
+            {
+                "logId": "6062d16acaebfe8a49e492ac",
+                "clockedIn": "Monday, March 29, 2021 3:34 PM",
+                "clockedOut": "Monday, March 29, 2021 11:34 PM",
+                "inactiveTime": 1320
+            },
+            {
+                "logId": "6062d16af754dd909c43c49e",
+                "clockedIn": "Tuesday, March 30, 2021 3:34 PM",
+                "clockedOut": "Tuesday, March 30, 2021 11:34 PM",
+                "inactiveTime": 2640
+            },
+            {
+                "logId": "6062d16a998682a3286cf5bd",
+                "clockedIn": "Wednesday, March 31, 2021 3:34 PM",
+                "clockedOut": "Wednesday, March 31, 2021 11:34 PM",
+                "inactiveTime": 1260
+            },
+            {
+                "logId": "6062d16a4b2b3a4bbbc1ef97",
+                "clockedIn": "Thursday, April 1, 2021 3:34 PM",
+                "clockedOut": "Thursday, April 1, 2021 11:34 PM",
+                "inactiveTime": 1020
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a582bda63575e1f9b",
+        "name": "Mindy Gibbs",
+        "randomDate": 1614313380464,
+        "log": [
+            {
+                "logId": "6062d16a40272d678bd2286b",
+                "clockedIn": "Friday, February 26, 2021 4:23 AM",
+                "clockedOut": "Friday, February 26, 2021 12:23 PM",
+                "inactiveTime": 2880
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16ac430498d5a663171",
+        "name": "Mercer Hull",
+        "randomDate": 1616631979968,
+        "log": [
+            {
+                "logId": "6062d16a78dfc413f373bfac",
+                "clockedIn": "Thursday, March 25, 2021 12:26 AM",
+                "clockedOut": "Thursday, March 25, 2021 8:26 AM",
+                "inactiveTime": 1920
+            },
+            {
+                "logId": "6062d16a2a6f6f2914b2906c",
+                "clockedIn": "Friday, March 26, 2021 12:26 AM",
+                "clockedOut": "Friday, March 26, 2021 8:26 AM",
+                "inactiveTime": 1500
+            },
+            {
+                "logId": "6062d16a502ca05b831ac7a4",
+                "clockedIn": "Saturday, March 27, 2021 12:26 AM",
+                "clockedOut": "Saturday, March 27, 2021 8:26 AM",
+                "inactiveTime": 2940
+            },
+            {
+                "logId": "6062d16a4ca6160b8150d897",
+                "clockedIn": "Sunday, March 28, 2021 12:26 AM",
+                "clockedOut": "Sunday, March 28, 2021 8:26 AM",
+                "inactiveTime": 1980
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a2a64383e2f007c36",
+        "name": "Cruz Sellers",
+        "randomDate": 1616959425702,
+        "log": [
+            {
+                "logId": "6062d16a7fe465351c5eae93",
+                "clockedIn": "Sunday, March 28, 2021 7:23 PM",
+                "clockedOut": "Monday, March 29, 2021 3:23 AM",
+                "inactiveTime": 1260
+            },
+            {
+                "logId": "6062d16a15e398b822bbbbb8",
+                "clockedIn": "Monday, March 29, 2021 7:23 PM",
+                "clockedOut": "Tuesday, March 30, 2021 3:23 AM",
+                "inactiveTime": 2880
+            },
+            {
+                "logId": "6062d16a63b15087a494757f",
+                "clockedIn": "Tuesday, March 30, 2021 7:23 PM",
+                "clockedOut": "Wednesday, March 31, 2021 3:23 AM",
+                "inactiveTime": 960
+            },
+            {
+                "logId": "6062d16a79db125366fd3b47",
+                "clockedIn": "Wednesday, March 31, 2021 7:23 PM",
+                "clockedOut": "Thursday, April 1, 2021 3:23 AM",
+                "inactiveTime": 1560
+            },
+            {
+                "logId": "6062d16a42e9ea1b1cc0925d",
+                "clockedIn": "Thursday, April 1, 2021 7:23 PM",
+                "clockedOut": "Friday, April 2, 2021 3:23 AM",
+                "inactiveTime": 1800
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a4db5386d165c81f4",
+        "name": "Andrews Albert",
+        "randomDate": 1612368812172,
+        "log": [
+            {
+                "logId": "6062d16a83c2330e59bd2456",
+                "clockedIn": "Wednesday, February 3, 2021 4:13 PM",
+                "clockedOut": "Thursday, February 4, 2021 12:13 AM",
+                "inactiveTime": 2040
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16ad986daf034e154a4",
+        "name": "Dalton Stewart",
+        "randomDate": 1616409528716,
+        "log": [
+            {
+                "logId": "6062d16aa94cff20954bba71",
+                "clockedIn": "Monday, March 22, 2021 10:38 AM",
+                "clockedOut": "Monday, March 22, 2021 6:38 PM",
+                "inactiveTime": 2340
+            },
+            {
+                "logId": "6062d16aaff96c0971cacaf1",
+                "clockedIn": "Tuesday, March 23, 2021 10:38 AM",
+                "clockedOut": "Tuesday, March 23, 2021 6:38 PM",
+                "inactiveTime": 1260
+            },
+            {
+                "logId": "6062d16a77edea25d7bcbb7b",
+                "clockedIn": "Wednesday, March 24, 2021 10:38 AM",
+                "clockedOut": "Wednesday, March 24, 2021 6:38 PM",
+                "inactiveTime": 2760
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16ade4b420db9f0be7e",
+        "name": "Imogene Woodward",
+        "randomDate": 1616071273584,
+        "log": [
+            {
+                "logId": "6062d16af52cb05c0aebb248",
+                "clockedIn": "Thursday, March 18, 2021 12:41 PM",
+                "clockedOut": "Thursday, March 18, 2021 8:41 PM",
+                "inactiveTime": 2220
+            },
+            {
+                "logId": "6062d16a5d7b3ebfdb16b24b",
+                "clockedIn": "Friday, March 19, 2021 12:41 PM",
+                "clockedOut": "Friday, March 19, 2021 8:41 PM",
+                "inactiveTime": 1860
+            },
+            {
+                "logId": "6062d16a872c02259ea7b82d",
+                "clockedIn": "Saturday, March 20, 2021 12:41 PM",
+                "clockedOut": "Saturday, March 20, 2021 8:41 PM",
+                "inactiveTime": 2520
+            },
+            {
+                "logId": "6062d16acd9620013ed64157",
+                "clockedIn": "Sunday, March 21, 2021 12:41 PM",
+                "clockedOut": "Sunday, March 21, 2021 8:41 PM",
+                "inactiveTime": 960
+            },
+            {
+                "logId": "6062d16ad5976266e14e2816",
+                "clockedIn": "Monday, March 22, 2021 12:41 PM",
+                "clockedOut": "Monday, March 22, 2021 8:41 PM",
+                "inactiveTime": 1140
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16affc494eb342128ea",
+        "name": "Mendez Schultz",
+        "randomDate": 1615466071814,
+        "log": [
+            {
+                "logId": "6062d16a7ae7b0dab03f02d5",
+                "clockedIn": "Thursday, March 11, 2021 12:34 PM",
+                "clockedOut": "Thursday, March 11, 2021 8:34 PM",
+                "inactiveTime": 1920
+            },
+            {
+                "logId": "6062d16a5592b65cf2e28ef3",
+                "clockedIn": "Friday, March 12, 2021 12:34 PM",
+                "clockedOut": "Friday, March 12, 2021 8:34 PM",
+                "inactiveTime": 1260
+            },
+            {
+                "logId": "6062d16a6eb7e22a414e1d30",
+                "clockedIn": "Saturday, March 13, 2021 12:34 PM",
+                "clockedOut": "Saturday, March 13, 2021 8:34 PM",
+                "inactiveTime": 3600
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16afe98de2749423d2b",
+        "name": "Kirk Pierce",
+        "randomDate": 1613281218825,
+        "log": [
+            {
+                "logId": "6062d16a3cc9f53f0e5975a2",
+                "clockedIn": "Sunday, February 14, 2021 5:40 AM",
+                "clockedOut": "Sunday, February 14, 2021 1:40 PM",
+                "inactiveTime": 900
+            },
+            {
+                "logId": "6062d16a6892d7d58b05fa04",
+                "clockedIn": "Monday, February 15, 2021 5:40 AM",
+                "clockedOut": "Monday, February 15, 2021 1:40 PM",
+                "inactiveTime": 1740
+            },
+            {
+                "logId": "6062d16a3dce220171b5444e",
+                "clockedIn": "Tuesday, February 16, 2021 5:40 AM",
+                "clockedOut": "Tuesday, February 16, 2021 1:40 PM",
+                "inactiveTime": 3120
+            },
+            {
+                "logId": "6062d16aed97b9af2c979b6a",
+                "clockedIn": "Wednesday, February 17, 2021 5:40 AM",
+                "clockedOut": "Wednesday, February 17, 2021 1:40 PM",
+                "inactiveTime": 2640
+            },
+            {
+                "logId": "6062d16af6990d3404bce9ec",
+                "clockedIn": "Thursday, February 18, 2021 5:40 AM",
+                "clockedOut": "Thursday, February 18, 2021 1:40 PM",
+                "inactiveTime": 2040
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a58c74549fb5cb098",
+        "name": "Reed Fry",
+        "randomDate": 1613281267403,
+        "log": [
+            {
+                "logId": "6062d16a8d2ebf9dcda017bb",
+                "clockedIn": "Sunday, February 14, 2021 5:41 AM",
+                "clockedOut": "Sunday, February 14, 2021 1:41 PM",
+                "inactiveTime": 2580
+            },
+            {
+                "logId": "6062d16a58dd719fb5e20809",
+                "clockedIn": "Monday, February 15, 2021 5:41 AM",
+                "clockedOut": "Monday, February 15, 2021 1:41 PM",
+                "inactiveTime": 2460
+            },
+            {
+                "logId": "6062d16a2f7944ae4a0c3fbd",
+                "clockedIn": "Tuesday, February 16, 2021 5:41 AM",
+                "clockedOut": "Tuesday, February 16, 2021 1:41 PM",
+                "inactiveTime": 1800
+            },
+            {
+                "logId": "6062d16ab80b72bc981f7da1",
+                "clockedIn": "Wednesday, February 17, 2021 5:41 AM",
+                "clockedOut": "Wednesday, February 17, 2021 1:41 PM",
+                "inactiveTime": 2940
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a0a7e78e207ba7c19",
+        "name": "Cindy Grimes",
+        "randomDate": 1611241796115,
+        "log": [
+            {
+                "logId": "6062d16a97af38aea966ffc3",
+                "clockedIn": "Thursday, January 21, 2021 3:09 PM",
+                "clockedOut": "Thursday, January 21, 2021 11:09 PM",
+                "inactiveTime": 2760
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a3c36eefd1aed538d",
+        "name": "Peterson Norton",
+        "randomDate": 1612125496696,
+        "log": [
+            {
+                "logId": "6062d16addbe921907cf7414",
+                "clockedIn": "Sunday, January 31, 2021 8:38 PM",
+                "clockedOut": "Monday, February 1, 2021 4:38 AM",
+                "inactiveTime": 1680
+            },
+            {
+                "logId": "6062d16aba99de0f7578fbdf",
+                "clockedIn": "Monday, February 1, 2021 8:38 PM",
+                "clockedOut": "Tuesday, February 2, 2021 4:38 AM",
+                "inactiveTime": 2280
+            },
+            {
+                "logId": "6062d16ac1df921003ac0e46",
+                "clockedIn": "Tuesday, February 2, 2021 8:38 PM",
+                "clockedOut": "Wednesday, February 3, 2021 4:38 AM",
+                "inactiveTime": 3000
+            },
+            {
+                "logId": "6062d16a71cb48e07978fa47",
+                "clockedIn": "Wednesday, February 3, 2021 8:38 PM",
+                "clockedOut": "Thursday, February 4, 2021 4:38 AM",
+                "inactiveTime": 1200
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a2672dc7a921f10ba",
+        "name": "Yvonne Kelly",
+        "randomDate": 1615194329764,
+        "log": [
+            {
+                "logId": "6062d16a24177b2adca3f8a4",
+                "clockedIn": "Monday, March 8, 2021 9:05 AM",
+                "clockedOut": "Monday, March 8, 2021 5:05 PM",
+                "inactiveTime": 1320
+            },
+            {
+                "logId": "6062d16a85e19ed7bd83c13f",
+                "clockedIn": "Tuesday, March 9, 2021 9:05 AM",
+                "clockedOut": "Tuesday, March 9, 2021 5:05 PM",
+                "inactiveTime": 2640
+            },
+            {
+                "logId": "6062d16a94d3ad3abcd594a3",
+                "clockedIn": "Wednesday, March 10, 2021 9:05 AM",
+                "clockedOut": "Wednesday, March 10, 2021 5:05 PM",
+                "inactiveTime": 1920
+            },
+            {
+                "logId": "6062d16a4b2b35defb9c5e34",
+                "clockedIn": "Thursday, March 11, 2021 9:05 AM",
+                "clockedOut": "Thursday, March 11, 2021 5:05 PM",
+                "inactiveTime": 1740
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16af22bb4fa7d5136d5",
+        "name": "Mcclure Curtis",
+        "randomDate": 1612712898590,
+        "log": [
+            {
+                "logId": "6062d16abc31850086845792",
+                "clockedIn": "Sunday, February 7, 2021 3:48 PM",
+                "clockedOut": "Sunday, February 7, 2021 11:48 PM",
+                "inactiveTime": 1020
+            },
+            {
+                "logId": "6062d16ae42f8ab4ffd4fd1e",
+                "clockedIn": "Monday, February 8, 2021 3:48 PM",
+                "clockedOut": "Monday, February 8, 2021 11:48 PM",
+                "inactiveTime": 2700
+            },
+            {
+                "logId": "6062d16aade009a1f6c7904a",
+                "clockedIn": "Tuesday, February 9, 2021 3:48 PM",
+                "clockedOut": "Tuesday, February 9, 2021 11:48 PM",
+                "inactiveTime": 1080
+            },
+            {
+                "logId": "6062d16ac6b888bd34be6207",
+                "clockedIn": "Wednesday, February 10, 2021 3:48 PM",
+                "clockedOut": "Wednesday, February 10, 2021 11:48 PM",
+                "inactiveTime": 2340
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a128655451e46cf41",
+        "name": "Courtney Burns",
+        "randomDate": 1610442960868,
+        "log": [
+            {
+                "logId": "6062d16af97ad43284d1c036",
+                "clockedIn": "Tuesday, January 12, 2021 9:16 AM",
+                "clockedOut": "Tuesday, January 12, 2021 5:16 PM",
+                "inactiveTime": 3600
+            },
+            {
+                "logId": "6062d16ab9ee8710ff4bd2b6",
+                "clockedIn": "Wednesday, January 13, 2021 9:16 AM",
+                "clockedOut": "Wednesday, January 13, 2021 5:16 PM",
+                "inactiveTime": 1800
+            },
+            {
+                "logId": "6062d16a217d8a93cd366260",
+                "clockedIn": "Thursday, January 14, 2021 9:16 AM",
+                "clockedOut": "Thursday, January 14, 2021 5:16 PM",
+                "inactiveTime": 3300
+            },
+            {
+                "logId": "6062d16a469cf906e946b332",
+                "clockedIn": "Friday, January 15, 2021 9:16 AM",
+                "clockedOut": "Friday, January 15, 2021 5:16 PM",
+                "inactiveTime": 1920
+            },
+            {
+                "logId": "6062d16a1a20bb93f4245fb1",
+                "clockedIn": "Saturday, January 16, 2021 9:16 AM",
+                "clockedOut": "Saturday, January 16, 2021 5:16 PM",
+                "inactiveTime": 2820
+            },
+            {
+                "logId": "6062d16a4b48dcc9dcc647eb",
+                "clockedIn": "Sunday, January 17, 2021 9:16 AM",
+                "clockedOut": "Sunday, January 17, 2021 5:16 PM",
+                "inactiveTime": 2640
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a2da22ee98aa31edf",
+        "name": "Hattie David",
+        "randomDate": 1614690758952,
+        "log": [
+            {
+                "logId": "6062d16a4e490013640462be",
+                "clockedIn": "Tuesday, March 2, 2021 1:12 PM",
+                "clockedOut": "Tuesday, March 2, 2021 9:12 PM",
+                "inactiveTime": 1560
+            },
+            {
+                "logId": "6062d16a8aff70f9196bcec6",
+                "clockedIn": "Wednesday, March 3, 2021 1:12 PM",
+                "clockedOut": "Wednesday, March 3, 2021 9:12 PM",
+                "inactiveTime": 3300
+            },
+            {
+                "logId": "6062d16aca48649bc18eeaaa",
+                "clockedIn": "Thursday, March 4, 2021 1:12 PM",
+                "clockedOut": "Thursday, March 4, 2021 9:12 PM",
+                "inactiveTime": 2700
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a9341868b33266d76",
+        "name": "Vance Foley",
+        "randomDate": 1612482427705,
+        "log": [
+            {
+                "logId": "6062d16a5a1b04cc6e643442",
+                "clockedIn": "Thursday, February 4, 2021 11:47 PM",
+                "clockedOut": "Friday, February 5, 2021 7:47 AM",
+                "inactiveTime": 1980
+            },
+            {
+                "logId": "6062d16aece3795e6325fa41",
+                "clockedIn": "Friday, February 5, 2021 11:47 PM",
+                "clockedOut": "Saturday, February 6, 2021 7:47 AM",
+                "inactiveTime": 3180
+            },
+            {
+                "logId": "6062d16aa991a3cdeb2d427c",
+                "clockedIn": "Saturday, February 6, 2021 11:47 PM",
+                "clockedOut": "Sunday, February 7, 2021 7:47 AM",
+                "inactiveTime": 2700
+            },
+            {
+                "logId": "6062d16a576d9fe7179814d6",
+                "clockedIn": "Sunday, February 7, 2021 11:47 PM",
+                "clockedOut": "Monday, February 8, 2021 7:47 AM",
+                "inactiveTime": 2940
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16aa1f0717ad1c71557",
+        "name": "Tyler Carney",
+        "randomDate": 1614999359913,
+        "log": [
+            {
+                "logId": "6062d16ae7fa9fb567abf405",
+                "clockedIn": "Saturday, March 6, 2021 2:55 AM",
+                "clockedOut": "Saturday, March 6, 2021 10:55 AM",
+                "inactiveTime": 2880
+            },
+            {
+                "logId": "6062d16ad1a7e194d78a24ad",
+                "clockedIn": "Sunday, March 7, 2021 2:55 AM",
+                "clockedOut": "Sunday, March 7, 2021 10:55 AM",
+                "inactiveTime": 1200
+            },
+            {
+                "logId": "6062d16ae2312d4096388c2a",
+                "clockedIn": "Monday, March 8, 2021 2:55 AM",
+                "clockedOut": "Monday, March 8, 2021 10:55 AM",
+                "inactiveTime": 3600
+            },
+            {
+                "logId": "6062d16a57cefdecf75808e2",
+                "clockedIn": "Tuesday, March 9, 2021 2:55 AM",
+                "clockedOut": "Tuesday, March 9, 2021 10:55 AM",
+                "inactiveTime": 2160
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16aba4c58e34acb67e7",
+        "name": "Griffith Gamble",
+        "randomDate": 1615385241218,
+        "log": [
+            {
+                "logId": "6062d16ae130f36b9aac1d31",
+                "clockedIn": "Wednesday, March 10, 2021 2:07 PM",
+                "clockedOut": "Wednesday, March 10, 2021 10:07 PM",
+                "inactiveTime": 3300
+            },
+            {
+                "logId": "6062d16a3309d60ae9edb962",
+                "clockedIn": "Thursday, March 11, 2021 2:07 PM",
+                "clockedOut": "Thursday, March 11, 2021 10:07 PM",
+                "inactiveTime": 1500
+            },
+            {
+                "logId": "6062d16a10eed52c52a2b575",
+                "clockedIn": "Friday, March 12, 2021 2:07 PM",
+                "clockedOut": "Friday, March 12, 2021 10:07 PM",
+                "inactiveTime": 2040
+            },
+            {
+                "logId": "6062d16ab72ad46c171e166e",
+                "clockedIn": "Saturday, March 13, 2021 2:07 PM",
+                "clockedOut": "Saturday, March 13, 2021 10:07 PM",
+                "inactiveTime": 1800
+            },
+            {
+                "logId": "6062d16aaa355fd913badd79",
+                "clockedIn": "Sunday, March 14, 2021 2:07 PM",
+                "clockedOut": "Sunday, March 14, 2021 10:07 PM",
+                "inactiveTime": 2160
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16afbe4db957b7fee96",
+        "name": "Bradford Clements",
+        "randomDate": 1615075960679,
+        "log": [
+            {
+                "logId": "6062d16af36d7f2d89b0dd79",
+                "clockedIn": "Sunday, March 7, 2021 12:12 AM",
+                "clockedOut": "Sunday, March 7, 2021 8:12 AM",
+                "inactiveTime": 3480
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a8a548b370c2dd383",
+        "name": "Ursula Poole",
+        "randomDate": 1617047389709,
+        "log": [
+            {
+                "logId": "6062d16a696f3cc5a61f4c48",
+                "clockedIn": "Monday, March 29, 2021 7:49 PM",
+                "clockedOut": "Tuesday, March 30, 2021 3:49 AM",
+                "inactiveTime": 3300
+            },
+            {
+                "logId": "6062d16adaf46df6497de731",
+                "clockedIn": "Tuesday, March 30, 2021 7:49 PM",
+                "clockedOut": "Wednesday, March 31, 2021 3:49 AM",
+                "inactiveTime": 3000
+            },
+            {
+                "logId": "6062d16a395958b83e590a86",
+                "clockedIn": "Wednesday, March 31, 2021 7:49 PM",
+                "clockedOut": "Thursday, April 1, 2021 3:49 AM",
+                "inactiveTime": 3000
+            },
+            {
+                "logId": "6062d16a8edd6b314db8a5ed",
+                "clockedIn": "Thursday, April 1, 2021 7:49 PM",
+                "clockedOut": "Friday, April 2, 2021 3:49 AM",
+                "inactiveTime": 2640
+            },
+            {
+                "logId": "6062d16a4d76cf6f6eae78e9",
+                "clockedIn": "Friday, April 2, 2021 7:49 PM",
+                "clockedOut": "Saturday, April 3, 2021 3:49 AM",
+                "inactiveTime": 1980
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16acf506daa13a5592a",
+        "name": "Walls York",
+        "randomDate": 1610832341107,
+        "log": [
+            {
+                "logId": "6062d16a02a72533762bfb65",
+                "clockedIn": "Saturday, January 16, 2021 9:25 PM",
+                "clockedOut": "Sunday, January 17, 2021 5:25 AM",
+                "inactiveTime": 3060
+            },
+            {
+                "logId": "6062d16ae839180c5e2d65c4",
+                "clockedIn": "Sunday, January 17, 2021 9:25 PM",
+                "clockedOut": "Monday, January 18, 2021 5:25 AM",
+                "inactiveTime": 2760
+            },
+            {
+                "logId": "6062d16af09e77ff7464f3ee",
+                "clockedIn": "Monday, January 18, 2021 9:25 PM",
+                "clockedOut": "Tuesday, January 19, 2021 5:25 AM",
+                "inactiveTime": 3600
+            },
+            {
+                "logId": "6062d16ac6368fb85f506d36",
+                "clockedIn": "Tuesday, January 19, 2021 9:25 PM",
+                "clockedOut": "Wednesday, January 20, 2021 5:25 AM",
+                "inactiveTime": 1920
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a51905ecc66973b38",
+        "name": "Sheila Huffman",
+        "randomDate": 1610809484608,
+        "log": [
+            {
+                "logId": "6062d16a53991d57e349886b",
+                "clockedIn": "Saturday, January 16, 2021 3:04 PM",
+                "clockedOut": "Saturday, January 16, 2021 11:04 PM",
+                "inactiveTime": 1020
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a299c26eb054a176d",
+        "name": "Bernadine Hamilton",
+        "randomDate": 1615375011704,
+        "log": [
+            {
+                "logId": "6062d16a53f19471c0fad020",
+                "clockedIn": "Wednesday, March 10, 2021 11:16 AM",
+                "clockedOut": "Wednesday, March 10, 2021 7:16 PM",
+                "inactiveTime": 2400
+            },
+            {
+                "logId": "6062d16a9b42beb8ffd3454d",
+                "clockedIn": "Thursday, March 11, 2021 11:16 AM",
+                "clockedOut": "Thursday, March 11, 2021 7:16 PM",
+                "inactiveTime": 1860
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16ae43cc34e857019e9",
+        "name": "Rena Sparks",
+        "randomDate": 1613903731980,
+        "log": [
+            {
+                "logId": "6062d16aaf4a99bd17c62cef",
+                "clockedIn": "Sunday, February 21, 2021 10:35 AM",
+                "clockedOut": "Sunday, February 21, 2021 6:35 PM",
+                "inactiveTime": 1260
+            },
+            {
+                "logId": "6062d16aeeaff2920d93c1b7",
+                "clockedIn": "Monday, February 22, 2021 10:35 AM",
+                "clockedOut": "Monday, February 22, 2021 6:35 PM",
+                "inactiveTime": 3240
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a47e0650be58bc8c0",
+        "name": "Lora Haney",
+        "randomDate": 1610456342687,
+        "log": [
+            {
+                "logId": "6062d16a2aa98e5d03592a27",
+                "clockedIn": "Tuesday, January 12, 2021 12:59 PM",
+                "clockedOut": "Tuesday, January 12, 2021 8:59 PM",
+                "inactiveTime": 3060
+            },
+            {
+                "logId": "6062d16aa2baed86742eceac",
+                "clockedIn": "Wednesday, January 13, 2021 12:59 PM",
+                "clockedOut": "Wednesday, January 13, 2021 8:59 PM",
+                "inactiveTime": 2820
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a45636950604b9ecd",
+        "name": "Owens Duran",
+        "randomDate": 1613499087143,
+        "log": [
+            {
+                "logId": "6062d16a17b0dd01daf40ecd",
+                "clockedIn": "Tuesday, February 16, 2021 6:11 PM",
+                "clockedOut": "Wednesday, February 17, 2021 2:11 AM",
+                "inactiveTime": 1620
+            },
+            {
+                "logId": "6062d16a71e1a26b94b7479d",
+                "clockedIn": "Wednesday, February 17, 2021 6:11 PM",
+                "clockedOut": "Thursday, February 18, 2021 2:11 AM",
+                "inactiveTime": 2940
+            },
+            {
+                "logId": "6062d16a443f3dfb9f4be4f2",
+                "clockedIn": "Thursday, February 18, 2021 6:11 PM",
+                "clockedOut": "Friday, February 19, 2021 2:11 AM",
+                "inactiveTime": 2580
+            },
+            {
+                "logId": "6062d16a439290c726e8a7c7",
+                "clockedIn": "Friday, February 19, 2021 6:11 PM",
+                "clockedOut": "Saturday, February 20, 2021 2:11 AM",
+                "inactiveTime": 1380
+            },
+            {
+                "logId": "6062d16a2717b9b0faffaf89",
+                "clockedIn": "Saturday, February 20, 2021 6:11 PM",
+                "clockedOut": "Sunday, February 21, 2021 2:11 AM",
+                "inactiveTime": 3180
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a8992ddf5754c3373",
+        "name": "Mccarty Wolfe",
+        "randomDate": 1615488242977,
+        "log": [
+            {
+                "logId": "6062d16a4af5a752d4406bea",
+                "clockedIn": "Thursday, March 11, 2021 6:44 PM",
+                "clockedOut": "Friday, March 12, 2021 2:44 AM",
+                "inactiveTime": 1800
+            },
+            {
+                "logId": "6062d16a039d0dfbccb18828",
+                "clockedIn": "Friday, March 12, 2021 6:44 PM",
+                "clockedOut": "Saturday, March 13, 2021 2:44 AM",
+                "inactiveTime": 3420
+            },
+            {
+                "logId": "6062d16a988a8e9881467b48",
+                "clockedIn": "Saturday, March 13, 2021 6:44 PM",
+                "clockedOut": "Sunday, March 14, 2021 2:44 AM",
+                "inactiveTime": 1380
+            },
+            {
+                "logId": "6062d16a65b7e87b223b7a01",
+                "clockedIn": "Sunday, March 14, 2021 6:44 PM",
+                "clockedOut": "Monday, March 15, 2021 2:44 AM",
+                "inactiveTime": 900
+            },
+            {
+                "logId": "6062d16aeb3ef75a4ad10256",
+                "clockedIn": "Monday, March 15, 2021 6:44 PM",
+                "clockedOut": "Tuesday, March 16, 2021 2:44 AM",
+                "inactiveTime": 3120
+            },
+            {
+                "logId": "6062d16a878a67f9b1d5d252",
+                "clockedIn": "Tuesday, March 16, 2021 6:44 PM",
+                "clockedOut": "Wednesday, March 17, 2021 2:44 AM",
+                "inactiveTime": 1980
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a36650b03adc291a7",
+        "name": "Catalina Moses",
+        "randomDate": 1610010402845,
+        "log": [
+            {
+                "logId": "6062d16adf60b1279288ccf7",
+                "clockedIn": "Thursday, January 7, 2021 9:06 AM",
+                "clockedOut": "Thursday, January 7, 2021 5:06 PM",
+                "inactiveTime": 2640
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a80be62a4ef815db6",
+        "name": "Berg Mcintosh",
+        "randomDate": 1609955496463,
+        "log": [
+            {
+                "logId": "6062d16ad1b8c71f0932f895",
+                "clockedIn": "Wednesday, January 6, 2021 5:51 PM",
+                "clockedOut": "Thursday, January 7, 2021 1:51 AM",
+                "inactiveTime": 1260
+            },
+            {
+                "logId": "6062d16ae2d1a70643dbb3fe",
+                "clockedIn": "Thursday, January 7, 2021 5:51 PM",
+                "clockedOut": "Friday, January 8, 2021 1:51 AM",
+                "inactiveTime": 2580
+            },
+            {
+                "logId": "6062d16aa36b10b22d0fda4c",
+                "clockedIn": "Friday, January 8, 2021 5:51 PM",
+                "clockedOut": "Saturday, January 9, 2021 1:51 AM",
+                "inactiveTime": 3600
+            },
+            {
+                "logId": "6062d16ad76aa01c299fe740",
+                "clockedIn": "Saturday, January 9, 2021 5:51 PM",
+                "clockedOut": "Sunday, January 10, 2021 1:51 AM",
+                "inactiveTime": 900
+            },
+            {
+                "logId": "6062d16ae3d39c5596e028c2",
+                "clockedIn": "Sunday, January 10, 2021 5:51 PM",
+                "clockedOut": "Monday, January 11, 2021 1:51 AM",
+                "inactiveTime": 3120
+            },
+            {
+                "logId": "6062d16a73140af02c4ce91f",
+                "clockedIn": "Monday, January 11, 2021 5:51 PM",
+                "clockedOut": "Tuesday, January 12, 2021 1:51 AM",
+                "inactiveTime": 1800
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a33db34b2d3823981",
+        "name": "Maryanne Haley",
+        "randomDate": 1613591105813,
+        "log": [
+            {
+                "logId": "6062d16a524e92a449198bb5",
+                "clockedIn": "Wednesday, February 17, 2021 7:45 PM",
+                "clockedOut": "Thursday, February 18, 2021 3:45 AM",
+                "inactiveTime": 1860
+            },
+            {
+                "logId": "6062d16ae80e2d532f793e57",
+                "clockedIn": "Thursday, February 18, 2021 7:45 PM",
+                "clockedOut": "Friday, February 19, 2021 3:45 AM",
+                "inactiveTime": 1080
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16a39d796beeea7755a",
+        "name": "Sandoval Lewis",
+        "randomDate": 1612259575037,
+        "log": [
+            {
+                "logId": "6062d16af62dfb82be02e4b4",
+                "clockedIn": "Tuesday, February 2, 2021 9:52 AM",
+                "clockedOut": "Tuesday, February 2, 2021 5:52 PM",
+                "inactiveTime": 2520
+            },
+            {
+                "logId": "6062d16aaa6a9b0a441b98a3",
+                "clockedIn": "Wednesday, February 3, 2021 9:52 AM",
+                "clockedOut": "Wednesday, February 3, 2021 5:52 PM",
+                "inactiveTime": 2160
+            },
+            {
+                "logId": "6062d16a92645885f3c90d7d",
+                "clockedIn": "Thursday, February 4, 2021 9:52 AM",
+                "clockedOut": "Thursday, February 4, 2021 5:52 PM",
+                "inactiveTime": 1440
+            },
+            {
+                "logId": "6062d16aab2647e5a808de3a",
+                "clockedIn": "Friday, February 5, 2021 9:52 AM",
+                "clockedOut": "Friday, February 5, 2021 5:52 PM",
+                "inactiveTime": 900
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16aef894e0ec48b5da8",
+        "name": "Latoya Blake",
+        "randomDate": 1610798569043,
+        "log": [
+            {
+                "logId": "6062d16aa1b40d449edbfc26",
+                "clockedIn": "Saturday, January 16, 2021 12:02 PM",
+                "clockedOut": "Saturday, January 16, 2021 8:02 PM",
+                "inactiveTime": 2820
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "6062d16add3b466d4e0ae8b3",
+        "name": "Griffin Quinn",
+        "randomDate": 1613959695430,
+        "log": [
+            {
+                "logId": "6062d16aa91a71b9c762342d",
+                "clockedIn": "Monday, February 22, 2021 2:08 AM",
+                "clockedOut": "Monday, February 22, 2021 10:08 AM",
+                "inactiveTime": 900
+            },
+            {
+                "logId": "6062d16a49d6cf4f4c62c49f",
+                "clockedIn": "Tuesday, February 23, 2021 2:08 AM",
+                "clockedOut": "Tuesday, February 23, 2021 10:08 AM",
+                "inactiveTime": 2520
+            },
+            {
+                "logId": "6062d16a2f256862abf17f2a",
+                "clockedIn": "Wednesday, February 24, 2021 2:08 AM",
+                "clockedOut": "Wednesday, February 24, 2021 10:08 AM",
+                "inactiveTime": 1140
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16acbc8376facd8c05b",
+        "name": "Natalia Sloan",
+        "randomDate": 1609867548763,
+        "log": [
+            {
+                "logId": "6062d16a06add59bc42a8473",
+                "clockedIn": "Tuesday, January 5, 2021 5:25 PM",
+                "clockedOut": "Wednesday, January 6, 2021 1:25 AM",
+                "inactiveTime": 2940
+            },
+            {
+                "logId": "6062d16a03c49d5068e51330",
+                "clockedIn": "Wednesday, January 6, 2021 5:25 PM",
+                "clockedOut": "Thursday, January 7, 2021 1:25 AM",
+                "inactiveTime": 900
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16ad5015a1745ec4ef6",
+        "name": "Thompson Hanson",
+        "randomDate": 1615703332046,
+        "log": [
+            {
+                "logId": "6062d16ae7882067e31526e9",
+                "clockedIn": "Sunday, March 14, 2021 6:28 AM",
+                "clockedOut": "Sunday, March 14, 2021 2:28 PM",
+                "inactiveTime": 900
+            },
+            {
+                "logId": "6062d16a0f96cd203b3e508c",
+                "clockedIn": "Monday, March 15, 2021 6:28 AM",
+                "clockedOut": "Monday, March 15, 2021 2:28 PM",
+                "inactiveTime": 1440
+            },
+            {
+                "logId": "6062d16a75edc7ac4709d8c3",
+                "clockedIn": "Tuesday, March 16, 2021 6:28 AM",
+                "clockedOut": "Tuesday, March 16, 2021 2:28 PM",
+                "inactiveTime": 2040
+            },
+            {
+                "logId": "6062d16afa70ff510f8d142c",
+                "clockedIn": "Wednesday, March 17, 2021 6:28 AM",
+                "clockedOut": "Wednesday, March 17, 2021 2:28 PM",
+                "inactiveTime": 2640
+            },
+            {
+                "logId": "6062d16afcd06bcc1bcb02d0",
+                "clockedIn": "Thursday, March 18, 2021 6:28 AM",
+                "clockedOut": "Thursday, March 18, 2021 2:28 PM",
+                "inactiveTime": 2100
+            },
+            {
+                "logId": "6062d16acd8a2ef20014586d",
+                "clockedIn": "Friday, March 19, 2021 6:28 AM",
+                "clockedOut": "Friday, March 19, 2021 2:28 PM",
+                "inactiveTime": 2220
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16ad2262278069b97f7",
+        "name": "Cathryn Simmons",
+        "randomDate": 1612649914144,
+        "log": [
+            {
+                "logId": "6062d16a223bec3a7c2c85a5",
+                "clockedIn": "Saturday, February 6, 2021 10:18 PM",
+                "clockedOut": "Sunday, February 7, 2021 6:18 AM",
+                "inactiveTime": 1320
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "6062d16a6dd5d7e40b6bd139",
+        "name": "Margarita Porter",
+        "randomDate": 1613872360334,
+        "log": [
+            {
+                "logId": "6062d16a6edd48719e486547",
+                "clockedIn": "Sunday, February 21, 2021 1:52 AM",
+                "clockedOut": "Sunday, February 21, 2021 9:52 AM",
+                "inactiveTime": 2280
+            },
+            {
+                "logId": "6062d16a613b5099c8783047",
+                "clockedIn": "Monday, February 22, 2021 1:52 AM",
+                "clockedOut": "Monday, February 22, 2021 9:52 AM",
+                "inactiveTime": 2580
+            },
+            {
+                "logId": "6062d16a058db85b26baa5f7",
+                "clockedIn": "Tuesday, February 23, 2021 1:52 AM",
+                "clockedOut": "Tuesday, February 23, 2021 9:52 AM",
+                "inactiveTime": 2700
+            }
+        ],
+        "isActive": false
+    }
+]

@@ -1,0 +1,244 @@
+[
+    {
+        "id": "60600d25a492280707d31f35",
+        "name": "Knowles Murray",
+        "randomDate": 1399927633501,
+        "log": [
+            {
+                "logId": "60600d25752155c89eae2f6a",
+                "clockedIn": "Monday, May 12, 2014 8:47 PM",
+                "clockedOut": "Tuesday, May 13, 2014 4:47 AM",
+                "inactiveTime": 2160
+            },
+            {
+                "logId": "60600d258f38cb4319622d72",
+                "clockedIn": "Tuesday, May 13, 2014 8:47 PM",
+                "clockedOut": "Wednesday, May 14, 2014 4:47 AM",
+                "inactiveTime": 2400
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "60600d258e9c4b6dc08bd4f1",
+        "name": "Dollie Dodson",
+        "randomDate": 1388677091976,
+        "log": [
+            {
+                "logId": "60600d250883edcae14c23c7",
+                "clockedIn": "Thursday, January 2, 2014 3:38 PM",
+                "clockedOut": "Thursday, January 2, 2014 11:38 PM",
+                "inactiveTime": 900
+            },
+            {
+                "logId": "60600d25eb79faa7516880e0",
+                "clockedIn": "Friday, January 3, 2014 3:38 PM",
+                "clockedOut": "Friday, January 3, 2014 11:38 PM",
+                "inactiveTime": 1260
+            },
+            {
+                "logId": "60600d2578922415915a1053",
+                "clockedIn": "Saturday, January 4, 2014 3:38 PM",
+                "clockedOut": "Saturday, January 4, 2014 11:38 PM",
+                "inactiveTime": 2640
+            },
+            {
+                "logId": "60600d25b9a693df4c3c178e",
+                "clockedIn": "Sunday, January 5, 2014 3:38 PM",
+                "clockedOut": "Sunday, January 5, 2014 11:38 PM",
+                "inactiveTime": 1020
+            },
+            {
+                "logId": "60600d25a8de1cfd65d47426",
+                "clockedIn": "Monday, January 6, 2014 3:38 PM",
+                "clockedOut": "Monday, January 6, 2014 11:38 PM",
+                "inactiveTime": 1740
+            },
+            {
+                "logId": "60600d2577fe5e3667d508e4",
+                "clockedIn": "Tuesday, January 7, 2014 3:38 PM",
+                "clockedOut": "Tuesday, January 7, 2014 11:38 PM",
+                "inactiveTime": 2460
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "60600d253540736fb8f30bc1",
+        "name": "Augusta Burke",
+        "randomDate": 1430274108567,
+        "log": [
+            {
+                "logId": "60600d25fd457d6fe3c9ae4a",
+                "clockedIn": "Wednesday, April 29, 2015 2:21 AM",
+                "clockedOut": "Wednesday, April 29, 2015 10:21 AM",
+                "inactiveTime": 2820
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "60600d25ca1b91e094acdffe",
+        "name": "Nannie Sanchez",
+        "randomDate": 1509149570636,
+        "log": [
+            {
+                "logId": "60600d25cc5b90ba7613c954",
+                "clockedIn": "Saturday, October 28, 2017 12:12 AM",
+                "clockedOut": "Saturday, October 28, 2017 8:12 AM",
+                "inactiveTime": 1500
+            },
+            {
+                "logId": "60600d2530fbf59257021ab0",
+                "clockedIn": "Sunday, October 29, 2017 12:12 AM",
+                "clockedOut": "Sunday, October 29, 2017 8:12 AM",
+                "inactiveTime": 2100
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "60600d25b758a884f965016a",
+        "name": "Byrd Lloyd",
+        "randomDate": 1487889350878,
+        "log": [
+            {
+                "logId": "60600d25767fcb61199e562a",
+                "clockedIn": "Thursday, February 23, 2017 10:35 PM",
+                "clockedOut": "Friday, February 24, 2017 6:35 AM",
+                "inactiveTime": 3300
+            },
+            {
+                "logId": "60600d2523760f22a4abe2a3",
+                "clockedIn": "Friday, February 24, 2017 10:35 PM",
+                "clockedOut": "Saturday, February 25, 2017 6:35 AM",
+                "inactiveTime": 2220
+            },
+            {
+                "logId": "60600d25ad63b41bb1c91a96",
+                "clockedIn": "Saturday, February 25, 2017 10:35 PM",
+                "clockedOut": "Sunday, February 26, 2017 6:35 AM",
+                "inactiveTime": 2940
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "60600d25ec7c6bdac80a4274",
+        "name": "Anita Payne",
+        "randomDate": 1593644033521,
+        "log": [
+            {
+                "logId": "60600d25a068bc7de6f581c1",
+                "clockedIn": "Wednesday, July 1, 2020 10:53 PM",
+                "clockedOut": "Thursday, July 2, 2020 6:53 AM",
+                "inactiveTime": 3540
+            },
+            {
+                "logId": "60600d25266e00fefc1937dc",
+                "clockedIn": "Thursday, July 2, 2020 10:53 PM",
+                "clockedOut": "Friday, July 3, 2020 6:53 AM",
+                "inactiveTime": 2940
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "60600d25c1cf011084bfcbf1",
+        "name": "Murphy Powell",
+        "randomDate": 1602589697162,
+        "log": [
+            {
+                "logId": "60600d250fb796315a14b6b0",
+                "clockedIn": "Tuesday, October 13, 2020 11:48 AM",
+                "clockedOut": "Tuesday, October 13, 2020 7:48 PM",
+                "inactiveTime": 1860
+            },
+            {
+                "logId": "60600d259c66967af838007d",
+                "clockedIn": "Wednesday, October 14, 2020 11:48 AM",
+                "clockedOut": "Wednesday, October 14, 2020 7:48 PM",
+                "inactiveTime": 2340
+            },
+            {
+                "logId": "60600d258701326cbf13efb4",
+                "clockedIn": "Thursday, October 15, 2020 11:48 AM",
+                "clockedOut": "Thursday, October 15, 2020 7:48 PM",
+                "inactiveTime": 3600
+            },
+            {
+                "logId": "60600d2501a4d2285984e2bf",
+                "clockedIn": "Friday, October 16, 2020 11:48 AM",
+                "clockedOut": "Friday, October 16, 2020 7:48 PM",
+                "inactiveTime": 1800
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "60600d25403b4d7461b2cb41",
+        "name": "Ilene Mullins",
+        "randomDate": 1566181364196,
+        "log": [
+            {
+                "logId": "60600d254100744faa2c6caa",
+                "clockedIn": "Monday, August 19, 2019 2:22 AM",
+                "clockedOut": "Monday, August 19, 2019 10:22 AM",
+                "inactiveTime": 3060
+            },
+            {
+                "logId": "60600d253b546a0c07e24c93",
+                "clockedIn": "Tuesday, August 20, 2019 2:22 AM",
+                "clockedOut": "Tuesday, August 20, 2019 10:22 AM",
+                "inactiveTime": 2820
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "60600d255237d87619c50036",
+        "name": "Knapp Cote",
+        "randomDate": 1420387981006,
+        "log": [
+            {
+                "logId": "60600d25c1e46bcabbd3dd3a",
+                "clockedIn": "Sunday, January 4, 2015 4:13 PM",
+                "clockedOut": "Monday, January 5, 2015 12:13 AM",
+                "inactiveTime": 1920
+            },
+            {
+                "logId": "60600d25a024803c3b5f587a",
+                "clockedIn": "Monday, January 5, 2015 4:13 PM",
+                "clockedOut": "Tuesday, January 6, 2015 12:13 AM",
+                "inactiveTime": 3300
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "60600d256673b338f6106781",
+        "name": "Moran Sharp",
+        "randomDate": 1437583280025,
+        "log": [
+            {
+                "logId": "60600d25a2b52669a4ac6c88",
+                "clockedIn": "Wednesday, July 22, 2015 4:41 PM",
+                "clockedOut": "Thursday, July 23, 2015 12:41 AM",
+                "inactiveTime": 1740
+            },
+            {
+                "logId": "60600d259c2a20a32f04d630",
+                "clockedIn": "Thursday, July 23, 2015 4:41 PM",
+                "clockedOut": "Friday, July 24, 2015 12:41 AM",
+                "inactiveTime": 3000
+            },
+            {
+                "logId": "60600d252a17731fff17ac77",
+                "clockedIn": "Friday, July 24, 2015 4:41 PM",
+                "clockedOut": "Saturday, July 25, 2015 12:41 AM",
+                "inactiveTime": 1320
+            }
+        ],
+        "isActive": true
+    }
+]
